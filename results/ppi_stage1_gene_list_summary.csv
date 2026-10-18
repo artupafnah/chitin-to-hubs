@@ -1,0 +1,6 @@
+Kategori_Daftar_Gen,Kriteria,Jumlah_Gen_Unik,Terpetakan_ke_STRING,Persen_Terpetakan,Tidak_Terpetakan_STRING,File_Output
+Semua Gen Teruji (Background/Universe),Gen aktif lolos filter count >= 10 pada >= 3 sampel,19979,N/A,N/A,N/A,results/DESeq2_all_genes_complete_table.csv
+Semua DEG (Utama),padj < 0.05 dan |log2FC| >= 1.0,717,690,96.23%,27,results/ppi_stage1_all_DEG_717.txt
+DEG Naik (Upregulated pada Kitin C6),padj < 0.05 dan log2FC >= +1.0,616,596,96.75%,20,results/ppi_stage1_DEG_up_616.txt
+DEG Turun (Downregulated pada Kitin C6),padj < 0.05 dan log2FC <= -1.0,101,94,93.07%,7,results/ppi_stage1_DEG_down_101.txt
+Subset DEG Ketat (Sensitivitas Kepadatan PPI),padj < 0.05 dan |log2FC| >= 1.5,413,398,96.37%,15,results/ppi_stage1_DEG_with_log2FC.tsv

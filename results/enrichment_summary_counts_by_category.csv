@@ -1,0 +1,17 @@
+"GeneSet","Database","Total_Tested_Terms","Significant_FDR_005","Nominal_P_005","Top_Term_Description","Top_Term_ID","Top_Term_FDR"
+"All_DEG_717","GO:BP",1108,77,156,"immune system process","GO:0002376",3.27990848103442e-18
+"All_DEG_717","GO:CC",142,0,8,"growing cell tip","GO:0035838",0.701960708480225
+"All_DEG_717","GO:MF",387,19,49,"transmembrane receptor protein kinase activity","GO:0019199",4.12980542106934e-06
+"All_DEG_717","KEGG",75,2,10,"Plant-pathogen interaction","ath04626",8.7071018692559e-19
+"Down_DEG_101","GO:BP",440,0,89,"monoatomic ion homeostasis","GO:0050801",0.0817574975279919
+"Down_DEG_101","GO:CC",36,0,1,"lytic vacuole","GO:0000323",0.471664645514806
+"Down_DEG_101","GO:MF",146,0,13,"iron ion transmembrane transporter activity","GO:0005381",0.218810219734783
+"Down_DEG_101","KEGG",18,0,1,"Lysosome biogenesis","ath04142",0.36056197937987
+"Top10_Hubs_10","GO:BP",82,32,48,"response to hypoxia","GO:0001666",0.0111418578074528
+"Top10_Hubs_10","GO:CC",7,0,0,"microtubule","GO:0005874",0.169307884780788
+"Top10_Hubs_10","GO:MF",22,9,12,"calcium ion binding","GO:0005509",0.00127874863716496
+"Top10_Hubs_10","KEGG",4,2,2,"Plant-pathogen interaction","ath04626",3.14372740514262e-10
+"Up_DEG_616","GO:BP",1034,71,143,"immune system process","GO:0002376",4.23475204127822e-20
+"Up_DEG_616","GO:CC",124,0,8,"growing cell tip","GO:0035838",0.376780617986664
+"Up_DEG_616","GO:MF",372,18,44,"signaling receptor activity","GO:0038023",2.73444888449612e-06
+"Up_DEG_616","KEGG",70,2,11,"Plant-pathogen interaction","ath04626",8.32709928732805e-19

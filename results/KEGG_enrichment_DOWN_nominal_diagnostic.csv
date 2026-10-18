@@ -1,0 +1,2 @@
+"category","subcategory","ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count","Direction","Source"
+"Cellular Processes","Transport and catabolism","ath04142","Lysosome biogenesis","3/18","171/4834",0.0175438596491228,4.71150097465887,3.02076080366743,0.0240023016357745,0.36056197937987,0.358453429792853,"AT4G16190/AT4G32940/AT1G80830",3,"Turun pada Perlakuan Kitin (Down)","KEGG REST API (ath)"

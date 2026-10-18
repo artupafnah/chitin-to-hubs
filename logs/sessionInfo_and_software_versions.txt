@@ -1,0 +1,101 @@
+==============================================================================
+INFORMASI SESI R DAN VERSI PERANGKAT LUNAK (REPRODUKSIBILITAS PIPELINE)
+Tanggal Eksekusi : 2026-10-18 00:43:12 WIB 
+Random Seed      : 42
+Dataset          : NCBI GEO GSE133053 / BioProject PRJNA549850 / SRA SRP201971
+Organisme        : Arabidopsis thaliana (Col-0, TAIR10)
+Kontras Utama    : Perlakuan Kitin C6 (1 jam) vs Kontrol Air H2O (1 jam)
+==============================================================================
+
+R version 4.5.2 (2025-10-31 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] LC_COLLATE=English_Indonesia.utf8  LC_CTYPE=English_Indonesia.utf8   
+[3] LC_MONETARY=English_Indonesia.utf8 LC_NUMERIC=C                      
+[5] LC_TIME=English_Indonesia.utf8    
+
+time zone: Asia/Jakarta
+tzcode source: internal
+
+attached base packages:
+[1] stats4    stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+ [1] tidyr_1.3.2            dplyr_1.2.0            viridis_0.6.5         
+ [4] viridisLite_0.4.3      patchwork_1.3.2        ggplot2_4.0.2         
+ [7] org.At.tair.db_3.22.0  AnnotationDbi_1.72.0   IRanges_2.44.0        
+[10] S4Vectors_0.48.0       Biobase_2.70.0         BiocGenerics_0.56.0   
+[13] generics_0.1.4         clusterProfiler_4.18.4
+
+loaded via a namespace (and not attached):
+  [1] DBI_1.3.0               gson_0.1.0              gridExtra_2.3          
+  [4] rlang_1.1.7             magrittr_2.0.4          DOSE_4.4.0             
+  [7] otel_0.2.0              compiler_4.5.2          RSQLite_2.4.6          
+ [10] png_0.1-8               systemfonts_1.3.2       vctrs_0.7.1            
+ [13] reshape2_1.4.5          stringr_1.6.0           pkgconfig_2.0.3        
+ [16] crayon_1.5.3            fastmap_1.2.0           XVector_0.50.0         
+ [19] labeling_0.4.3          enrichplot_1.30.5       ragg_1.5.2             
+ [22] purrr_1.2.1             bit_4.6.0               cachem_1.1.0           
+ [25] aplot_0.2.9             jsonlite_2.0.0          blob_1.3.0             
+ [28] tidydr_0.0.6            BiocParallel_1.44.0     tweenr_2.0.3           
+ [31] parallel_4.5.2          cluster_2.1.8.2         R6_2.6.1               
+ [34] stringi_1.8.7           RColorBrewer_1.1-3      GOSemSim_2.36.0        
+ [37] Rcpp_1.1.1              Seqinfo_1.0.0           ggtangle_0.1.1         
+ [40] R.utils_2.13.0          Matrix_1.7-4            splines_4.5.2          
+ [43] igraph_2.2.2            tidyselect_1.2.1        qvalue_2.42.0          
+ [46] codetools_0.2-20        lattice_0.22-9          tibble_3.3.1           
+ [49] plyr_1.8.9              treeio_1.34.0           withr_3.0.2            
+ [52] KEGGREST_1.50.0         S7_0.2.1                gridGraphics_0.5-1     
+ [55] scatterpie_0.2.6        polyclip_1.10-7         Biostrings_2.78.0      
+ [58] pillar_1.11.1           ggtree_4.0.4            ggfun_0.2.0            
+ [61] scales_1.4.0            tidytree_0.4.7          glue_1.8.0             
+ [64] gdtools_0.5.0           lazyeval_0.2.2          tools_4.5.2            
+ [67] ggnewscale_0.5.2        data.table_1.18.2.1     fgsea_1.36.2           
+ [70] ggiraph_0.9.6           fs_1.6.7                fastmatch_1.1-8        
+ [73] cowplot_1.2.0           grid_4.5.2              ape_5.8-1              
+ [76] nlme_3.1-168            ggforce_0.5.0           cli_3.6.5              
+ [79] rappdirs_0.3.4          textshaping_1.0.4       fontBitstreamVera_0.1.1
+ [82] svglite_2.2.2           gtable_0.3.6            R.methodsS3_1.8.2      
+ [85] yulab.utils_0.2.4       digest_0.6.39           fontquiver_0.2.1       
+ [88] ggrepel_0.9.7           ggplotify_0.1.3         htmlwidgets_1.6.4      
+ [91] farver_2.1.2            memoise_2.0.1           htmltools_0.5.9        
+ [94] R.oo_1.27.1             lifecycle_1.0.5         httr_1.4.8             
+ [97] GO.db_3.22.0            fontLiberation_0.1.0    bit64_4.6.0-1          
+[100] MASS_7.3-65            
+
+--- Versi Paket Utama R ---
+DESeq2             : 1.50.2
+apeglm             : 1.32.0
+clusterProfiler    : 4.18.4
+org.At.tair.db     : 3.22.0
+AnnotationDbi      : 1.72.0
+ggplot2            : 4.0.2
+ggrepel            : 0.9.7
+pheatmap           : 1.0.13
+viridis            : 0.6.5
+patchwork          : 1.3.2
+dplyr              : 1.2.0
+tidyr              : 1.3.2
+
+
+================================================================================
+TAMBAHAN LOG VERSI SOFTWARE UNTUK ANALISIS LANJUTAN:
+ENRICHMENT, JARINGAN INTERAKSI PROTEIN (PPI) STRING, CENTRALITY, & PRIORITISASI
+Tanggal Eksekusi: 2026-10-18 01:22:00 WIB
+================================================================================
+- Python: 3.11.9 (MSC v.1938 64 bit AMD64)
+- NetworkX: 3.4.2 (degree_centrality, betweenness_centrality, closeness_centrality, eigenvector_centrality_numpy, louvain_communities)
+- NumPy: 2.2.3
+- SciPy: 1.15.2 (scipy.stats.spearmanr, kendalltau)
+- Matplotlib: 3.10.0
+- OpenPyXL: 3.1.5 (pembuatan berkas Excel top_candidates.xlsx)
+- Requests: 2.32.3 (REST API client untuk STRING v12.0)
+- STRING Database API: v12.0 (https://string-db.org/api, NCBI Taxon ID: 3702, Arabidopsis thaliana)
+- R: 4.5.2 (clusterProfiler v4.18.4, org.At.tair.db v3.22.0, igraph v2.1.4, ggplot2 v4.0.2, dplyr v1.2.0)
+- Random Seed Tetap: 42

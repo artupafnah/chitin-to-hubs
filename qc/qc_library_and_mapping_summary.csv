@@ -1,0 +1,9 @@
+sample_id,GSM,SRR,kondisi,replicate,lane_id,layout,read_length_bp,raw_reads_SRA,assigned_reads_sum_isoforms,pct_assigned_sum,assigned_reads_rep_gene,pct_assigned_rep,detected_genes_count_ge1,detected_genes_count_ge10,qc_flag_threshold_70pct,qc_decision
+H2O_1h_Rep1,GSM3899066,SRR9331207,Kontrol_H2O,1,Lane_4,SINGLE,101,19696479,17466529,88.68,15573536,79.07,23152,20035,OK (>=70%),PASS (Mapping >70% & Kedalaman Normal)
+H2O_1h_Rep2,GSM3899024,SRR9331165,Kontrol_H2O,2,Lane_1,SINGLE,101,18261424,16360695,89.59,14619896,80.06,22995,19916,OK (>=70%),PASS (Mapping >70% & Kedalaman Normal)
+H2O_1h_Rep3,GSM3899047,SRR9331188,Kontrol_H2O,3,Lane_3,SINGLE,101,18190131,16663272,91.61,14913514,81.99,23251,20121,OK (>=70%),PASS (Mapping >70% & Kedalaman Normal)
+H2O_1h_Rep4,GSM3899052,SRR9331193,Kontrol_H2O,4,Lane_3,SINGLE,101,19987691,17434425,87.23,15535394,77.72,22678,19156,OK (>=70%),PASS (Mapping >70% & Kedalaman Normal)
+C6_1h_Rep1,GSM3899022,SRR9331163,Perlakuan_Kitin_C6,1,Lane_1,SINGLE,101,756904,4816,0.64,4580,0.61,2837,33,WARNING (<70%),FAIL_EXCLUDE (Gagal Sekuensing / Pustaka Kosong <1%)
+C6_1h_Rep2,GSM3899033,SRR9331174,Perlakuan_Kitin_C6,2,Lane_2,SINGLE,101,10887042,9773934,89.78,8762356,80.48,22558,19084,OK (>=70%),PASS (Mapping >70% & Kedalaman Normal)
+C6_1h_Rep3,GSM3899036,SRR9331177,Perlakuan_Kitin_C6,3,Lane_2,SINGLE,101,19335129,2375723,12.29,2141208,11.07,21105,15935,WARNING (<70%),"WARNING_RETAIN (Mapping <70%, namun >2.37 Juta Read Unik & Korelasi >0.93)"
+C6_1h_Rep4,GSM3899056,SRR9331197,Perlakuan_Kitin_C6,4,Lane_4,SINGLE,101,12314664,11476373,93.19,10278624,83.47,22829,19332,OK (>=70%),PASS (Mapping >70% & Kedalaman Normal)

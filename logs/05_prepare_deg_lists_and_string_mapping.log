@@ -1,0 +1,55 @@
+﻿================================================================================
+LANGKAH AWAL & TAHAP 1: VERIFIKASI METADATA, DAFTAR DEG UNIK, & PEMETAAN STRING
+================================================================================
+[Metadata] File SOFT GSE133053 organisme: ['Arabidopsis thaliana']
+[Metadata] Organisme terverifikasi: Arabidopsis thaliana (NCBI Taxon ID: 3702; g:Profiler ID: athaliana)
+[Metadata] Sampel valid (n=7): Kontrol H2O 1h (4: ['H2O_1h_Rep1', 'H2O_1h_Rep2', 'H2O_1h_Rep3', 'H2O_1h_Rep4']) vs Perlakuan Kitin C6 1h (3: ['C6_1h_Rep2', 'C6_1h_Rep3', 'C6_1h_Rep4'])
+[Input DEG] Total gen yang diuji pada tabel lengkap: 19979
+[Input DEG] Arah kontras terverifikasi: {'Perlakuan_Kitin_C6_1h_vs_Kontrol_H2O_1h (log2FC > 0 = Naik pada Kitin)'}
+[Tahap 1] Jumlah ID gen unik (TAIR10 locus tag) setelah pemeriksaan duplikasi: 19979 (duplikat ditemukan: 0)
+[Tahap 1] Cek duplikasi simbol gen di dalam DEG: 0 simbol digunakan oleh >1 locus tag.
+[Tahap 1] Hasil Perhitungan Ulang DEG (padj < 0.05 & |log2FC| >= 1.0):
+   - Total DEG Unik : 717
+   - DEG Naik (Up)  : 616 (85.91%)
+   - DEG Turun (Down): 101 (14.09%)
+   - Subset Ketat (padj < 0.05 & |log2FC| >= 1.5): 413 DEG (386 Up, 27 Down)
+
+[Langkah Awal #3] Memetakan 717 ID Gen DEG ke database STRING (species=3702)...
+[STRING Mapping] Pemetaan tahap 1 (via TAIR10 locus tag): 690 / 717 (96.23%) berhasil dipetakan.
+[STRING Mapping] Jumlah tidak terpetakan via locus tag: 27
+[STRING Mapping] Pemetaan tambahan via simbol gen: 0 gen berhasil dipetakan.
+[STRING Mapping Final] Total berhasil dipetakan ke STRING: 690 / 717 (96.23%)
+   - DEG Naik terpetakan  : 596 / 616 (96.75%)
+   - DEG Turun terpetakan : 94 / 101 (93.07%)
+   - Protein STRING unik  : 690 (duplikat ke protein sama: 0)
+   - Gen TIDAK dikenali di STRING: 27 / 717 (3.77%)
+      * AT2G24160 (symbol=AT2G24160, log2FC=2.291, padj=5.09e-19, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT1G79245 (symbol=AT1G79245, log2FC=2.308, padj=2.07e-15, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT1G58561 (symbol=AT1G58561, log2FC=2.171, padj=2.08e-13, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT1G19320 (symbol=AT1G19320, log2FC=7.012, padj=1.13e-12, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT3G52748 (symbol=AT3G52748, log2FC=2.493, padj=1.31e-09, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT4G38932 (symbol=AT4G38932, log2FC=-1.264, padj=7.96e-06, dir=Down): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT2G03540 (symbol=AT2G03540, log2FC=1.925, padj=8.19e-06, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT5G59070 (symbol=AT5G59070, log2FC=1.884, padj=1.61e-05, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT2G15120 (symbol=AT2G15120, log2FC=2.756, padj=6.15e-05, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT2G24165 (symbol=AT2G24165, log2FC=2.893, padj=1.37e-04, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT4G39838 (symbol=AT4G39838, log2FC=1.082, padj=1.71e-04, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT5G01542 (symbol=AT5G01542, log2FC=2.760, padj=2.64e-04, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT3G24518 (symbol=AT3G24518, log2FC=-1.237, padj=3.86e-04, dir=Down): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT2G18735 (symbol=AT2G18735, log2FC=-1.119, padj=1.17e-03, dir=Down): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT1G46554 (symbol=AT1G46554, log2FC=-1.162, padj=2.10e-03, dir=Down): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT5G01732 (symbol=AT5G01732, log2FC=1.030, padj=3.30e-03, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT5G38212 (symbol=AT5G38212, log2FC=1.307, padj=5.09e-03, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT4G40085 (symbol=AT4G40085, log2FC=1.371, padj=5.93e-03, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT1G67365 (symbol=AT1G67365, log2FC=-1.231, padj=7.82e-03, dir=Down): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT3G46250 (symbol=AT3G46250, log2FC=1.773, padj=1.42e-02, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT3G17110 (symbol=AT3G17110, log2FC=2.014, padj=1.95e-02, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT4G04221 (symbol=AT4G04221, log2FC=1.139, padj=2.16e-02, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT4G38552 (symbol=AT4G38552, log2FC=1.594, padj=2.37e-02, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT1G33817 (symbol=AT1G33817, log2FC=-2.119, padj=2.42e-02, dir=Down): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT1G43675 (symbol=AT1G43675, log2FC=-1.074, padj=3.29e-02, dir=Down): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT1G56060 (symbol=AthCYSTM3, log2FC=2.964, padj=3.31e-02, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+      * AT1G11185 (symbol=AT1G11185, log2FC=1.407, padj=4.57e-02, dir=Up): Uncharacterized Arabidopsis protein (TAIR10)
+
+[Selesai] Seluruh output Tahap 1 telah disimpan di folder results/.
+

@@ -1,0 +1,109 @@
+﻿Rscript.exe : Warning message:
+At line:1 char:1
++ & "[R_HOME]\bin\Rscript.exe" scripts/03_DESeq2_DEG_ ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Warning message::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+package 'viridis' was built under R version 4.5.3 
+[INFO] Memulai analisis Tahap 4 s.d. Tahap 8 (DESeq2 RNA-seq GSE133053)...
+[GAMBAR] Tersimpan: Fig01_QC_Library_and_Mapping_Rate (.png 300 dpi, .pdf, .svg)
+[TAHAP 5] Total lokus gen awal TAIR10 : 31591 gen
+[TAHAP 5] Gen lolos filtering (>=10 di >=3 sampel) : 19979 gen (Dibuang: 11612 gen)
+              sample_id            kondisi raw_library_size_all_genes
+H2O_1h_Rep1 H2O_1h_Rep1        Kontrol_H2O                   17466529
+H2O_1h_Rep2 H2O_1h_Rep2        Kontrol_H2O                   16360695
+H2O_1h_Rep3 H2O_1h_Rep3        Kontrol_H2O                   16663272
+H2O_1h_Rep4 H2O_1h_Rep4        Kontrol_H2O                   17434425
+C6_1h_Rep2   C6_1h_Rep2 Perlakuan_Kitin_C6                    9773934
+C6_1h_Rep3   C6_1h_Rep3 Perlakuan_Kitin_C6                    2375723
+C6_1h_Rep4   C6_1h_Rep4 Perlakuan_Kitin_C6                   11476373
+            raw_library_size_filtered_genes DESeq2_size_factor
+H2O_1h_Rep1                        17453229            1.66244
+H2O_1h_Rep2                        16348203            1.51944
+H2O_1h_Rep3                        16648618            1.70368
+H2O_1h_Rep4                        17420144            1.43132
+C6_1h_Rep2                          9766079            0.83271
+C6_1h_Rep3                          2373297            0.21237
+C6_1h_Rep4                         11466788            0.99565
+            normalized_library_size
+H2O_1h_Rep1                10498576
+H2O_1h_Rep2                10759370
+H2O_1h_Rep3                 9772159
+H2O_1h_Rep4                12170719
+C6_1h_Rep2                 11728056
+C6_1h_Rep3                 11175476
+C6_1h_Rep4                 11516921
+[GAMBAR] Tersimpan: Fig02_Boxplot_Before_vs_After_Normalization (.png 300 dpi, .pdf, .svg)
+[GAMBAR] Tersimpan: Fig03_PCA_Plot_VST_Top500 (.png 300 dpi, .pdf, .svg)
+[GAMBAR] Tersimpan: Fig04_Sample_Correlation_Distance_Heatmap (.png 300 dpi, .pdf, .svg)
+
+[TAHAP 7] Menjalankan DESeq2 Wald test dan lfcShrink (apeglm)...
+using pre-existing size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+fitting model and testing
+[INFO] Nama koefisien model DESeq2: Intercept kondisi_Perlakuan_Kitin_C6_vs_Kontrol_H2O 
+using 'apeglm' for LFC shrinkage. If used in published research, please cite:
+    Zhu, A., Ibrahim, J.G., Love, M.I. (2018) Heavy-tailed prior distributions for
+    sequence count data: removing the noise and preserving large differences.
+    Bioinformatics. https://doi.org/10.1093/bioinformatics/bty895
+'select()' returned 1:many mapping between keys and columns
+'select()' returned 1:many mapping between keys and columns
+
+================ RINGKASAN HASIL DEG UTAMA (padj < 0.05 & |log2FC| >= 1.0) ================
+Total Gen Diuji                : 19979 gen
+Total DEG Signifikan (apeglm)  : 717 gen
+  - NAIK pada Kitin (log2FC>=1): 616 gen
+  - TURUN pada Kitin (log2FC<=-1): 101 gen
+
+=== Tabel Sensitivitas Ambang |log2FC| dan Set Sampel ===
+                                   Model_Set Estimator_log2FC
+1      7 Sampel Valid (Utama: 4 H2O vs 3 C6)  Shrunk (apeglm)
+2      7 Sampel Valid (Utama: 4 H2O vs 3 C6)   Unshrunk (MLE)
+3  8 Sampel Awal (Termasuk C6_1h_Rep1 Gagal)  Shrunk (apeglm)
+4   6 Sampel Ketat (Tanpa C6_1h_Rep1 & Rep3)  Shrunk (apeglm)
+5      7 Sampel Valid (Utama: 4 H2O vs 3 C6)  Shrunk (apeglm)
+6      7 Sampel Valid (Utama: 4 H2O vs 3 C6)   Unshrunk (MLE)
+7  8 Sampel Awal (Termasuk C6_1h_Rep1 Gagal)  Shrunk (apeglm)
+8   6 Sampel Ketat (Tanpa C6_1h_Rep1 & Rep3)  Shrunk (apeglm)
+9      7 Sampel Valid (Utama: 4 H2O vs 3 C6)  Shrunk (apeglm)
+10     7 Sampel Valid (Utama: 4 H2O vs 3 C6)   Unshrunk (MLE)
+11 8 Sampel Awal (Termasuk C6_1h_Rep1 Gagal)  Shrunk (apeglm)
+12  6 Sampel Ketat (Tanpa C6_1h_Rep1 & Rep3)  Shrunk (apeglm)
+   Threshold_abs_log2FC Fold_Change_Linear padj_cutoff DEG_Up_in_Chitin
+1                  0.58               1.49        0.05              791
+2                  0.58               1.49        0.05              802
+3                  0.58               1.49        0.05              205
+4                  0.58               1.49        0.05              385
+5                  1.00               2.00        0.05              616
+6                  1.00               2.00        0.05              698
+7                  1.00               2.00        0.05              205
+8                  1.00               2.00        0.05              333
+9                  1.50               2.83        0.05              386
+10                 1.50               2.83        0.05              479
+11                 1.50               2.83        0.05              192
+12                 1.50               2.83        0.05              229
+   DEG_Down_in_Chitin DEG_Total
+1                 244      1035
+2                 276      1078
+3                   3       208
+4                 116       501
+5                 101       717
+6                 142       840
+7                   2       207
+8                  52       385
+9                  27       413
+10                 61       540
+11                  2       194
+12                 19       248
+[GAMBAR] Tersimpan: Fig05_Volcano_Plot_C6_vs_H2O (.png 300 dpi, .pdf, .svg)
+[GAMBAR] Tersimpan: Fig06_MA_Plot_Before_and_After_apeglm (.png 300 dpi, .pdf, .svg)
+[GAMBAR] Tersimpan: Fig07_Heatmap_Top50_DEG_Zscore (.png 300 dpi, .pdf, .svg)
+[GAMBAR] Tersimpan: Fig08_Pvalue_Distribution_Histogram (.png 300 dpi, .pdf, .svg)
+[GAMBAR] Tersimpan: Fig09_BarChart_DEG_Counts_and_Sensitivity (.png 300 dpi, .pdf, .svg)
+
+[SUKSES] Tahap 4 s.d. Tahap 8 selesai dijalankan.
+

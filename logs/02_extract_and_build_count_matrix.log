@@ -1,0 +1,13 @@
+﻿[INFO] Ringkasan QC kuantifikasi disimpan ke: ./qc\qc_library_and_mapping_summary.csv
+  H2O_1h_Rep1  | SRA: 19,696,479 | Assigned: 17,466,529 (88.68%) | Genes>=10: 20,035 | PASS (Mapping >70% & Kedalaman Normal)
+  H2O_1h_Rep2  | SRA: 18,261,424 | Assigned: 16,360,695 (89.59%) | Genes>=10: 19,916 | PASS (Mapping >70% & Kedalaman Normal)
+  H2O_1h_Rep3  | SRA: 18,190,131 | Assigned: 16,663,272 (91.61%) | Genes>=10: 20,121 | PASS (Mapping >70% & Kedalaman Normal)
+  H2O_1h_Rep4  | SRA: 19,987,691 | Assigned: 17,434,425 (87.23%) | Genes>=10: 19,156 | PASS (Mapping >70% & Kedalaman Normal)
+  C6_1h_Rep1   | SRA:    756,904 | Assigned:      4,816 ( 0.64%) | Genes>=10:     33 | FAIL_EXCLUDE (Gagal Sekuensing / Pustaka Kosong <1%)
+  C6_1h_Rep2   | SRA: 10,887,042 | Assigned:  9,773,934 (89.78%) | Genes>=10: 19,084 | PASS (Mapping >70% & Kedalaman Normal)
+  C6_1h_Rep3   | SRA: 19,335,129 | Assigned:  2,375,723 (12.29%) | Genes>=10: 15,935 | WARNING_RETAIN (Mapping <70%, namun >2.37 Juta Read Unik & Korelasi >0.93)
+  C6_1h_Rep4   | SRA: 12,314,664 | Assigned: 11,476,373 (93.19%) | Genes>=10: 19,332 | PASS (Mapping >70% & Kedalaman Normal)
+
+[INFO] Matriks count 8 sampel (31,591 gen) disimpan ke: ./results\raw_counts_matrix_all8samples.csv
+[INFO] Matriks count 7 sampel valid (31,591 gen) disimpan ke: ./results\raw_counts_matrix_valid7samples.csv
+

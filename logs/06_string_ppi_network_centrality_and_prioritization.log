@@ -1,0 +1,63 @@
+﻿=====================================================================================
+TAHAP 3, 4, & 5: JARINGAN PPI STRING, CENTRALITY, KOMUNITAS, & PRIORITISASI KANDIDAT
+=====================================================================================
+NetworkX version: 3.4.2 | NumPy version: 2.2.3 | Seed: 42
+[Input] Total DEG: 717 | Terpetakan ke STRING: 690 protein unik.
+
+[Tahap 3] Mengambil jaringan interaksi PPI dari STRING API (species=3702, required_score=400)...
+[STRING API] Jumlah baris interaksi mentah yang diterima: 1522
+[Tahap 3] Interaksi unik tak-berarah pada ambang >= 0.400 (Medium): 1522 edge
+[Tahap 3] Interaksi unik tak-berarah pada ambang >= 0.700 (High)  : 284 edge
+
+[Tahap 3] Ringkasan Statistik Topologi Jaringan STRING:
+   * 1. Semua DEG (|log2FC|>=1.0) - Skor >= 0.400 (Medium, Default Utama):
+     - Protein Terpetakan: 690 | Node Aktif: 503 | Node Terisolasi: 187
+     - Jumlah Edge: 1522 | Avg Degree (Semua Terpetakan): 4.4116 | Avg Degree (Node Aktif): 6.0517
+     - Komponen Terhubung (Aktif): 7 | GCC: 488 node (97.02%), 1513 edge, Clustering=0.2136, ASPL=4.1853
+   * 2. Semua DEG (|log2FC|>=1.0) - Skor >= 0.700 (High, Sensitivitas Skor):
+     - Protein Terpetakan: 690 | Node Aktif: 247 | Node Terisolasi: 443
+     - Jumlah Edge: 284 | Avg Degree (Semua Terpetakan): 0.8232 | Avg Degree (Node Aktif): 2.2996
+     - Komponen Terhubung (Aktif): 45 | GCC: 128 node (51.82%), 203 edge, Clustering=0.2401, ASPL=6.1993
+   * 3. Subset DEG Ketat (|log2FC|>=1.5) - Skor >= 0.400 (Sensitivitas Kepadatan):
+     - Protein Terpetakan: 398 | Node Aktif: 249 | Node Terisolasi: 149
+     - Jumlah Edge: 738 | Avg Degree (Semua Terpetakan): 3.7085 | Avg Degree (Node Aktif): 5.9277
+     - Komponen Terhubung (Aktif): 8 | GCC: 233 node (93.57%), 729 edge, Clustering=0.2743, ASPL=3.8943
+   * 4. Subset DEG Ketat (|log2FC|>=1.5) - Skor >= 0.700 (Ketat & High Confidence):
+     - Protein Terpetakan: 398 | Node Aktif: 117 | Node Terisolasi: 281
+     - Jumlah Edge: 123 | Avg Degree (Semua Terpetakan): 0.6181 | Avg Degree (Node Aktif): 2.1026
+     - Komponen Terhubung (Aktif): 32 | GCC: 21 node (17.95%), 57 edge, Clustering=0.6348, ASPL=2.1381
+
+[Tahap 4] Menjalankan deteksi komunitas Louvain pada GCC Utama (Skor >= 0.400)...
+[Louvain] Jumlah komunitas/modul pada GCC (547+ node): 16 modul | Modularitas Q = 0.5603
+
+[Tahap 4 & 5] Menghitung Degree, Betweenness, Closeness, Eigenvector Centrality & Composite Score...
+
+[Tahap 5] TOP 10 KANDIDAT GEN PRIORITAS (GCC 0.400 Unweighted, Z-Score STDEV.S):
+   # 1 | AT5G47910 (ATRBOHD   ) | Dir=Up   | log2FC=+1.222 | padj=3.99e-03 | Deg= 52 (C_D=0.1068, C_B=0.1201, C_C=0.3781, C_E=0.2614) | Composite=+6.181 | Mod=M4 | Ranks[0.4W=1, Full=1, 0.7U=2, 0.7W=2]
+   # 2 | AT5G66210 (CPK28     ) | Dir=Up   | log2FC=+2.422 | padj=5.87e-05 | Deg= 45 (C_D=0.0924, C_B=0.0540, C_C=0.3537, C_E=0.2463) | Composite=+4.323 | Mod=M4 | Ranks[0.4W=5, Full=2, 0.7U=42, 0.7W=40]
+   # 3 | AT3G48090 (ATEDS1    ) | Dir=Up   | log2FC=+1.045 | padj=2.34e-02 | Deg= 33 (C_D=0.0678, C_B=0.0675, C_C=0.3504, C_E=0.1730) | Composite=+3.714 | Mod=M1 | Ranks[0.4W=3, Full=3, 0.7U=4, 0.7W=5]
+   # 4 | AT1G01560 (ATMPK11   ) | Dir=Up   | log2FC=+2.569 | padj=1.61e-02 | Deg= 37 (C_D=0.0760, C_B=0.0392, C_C=0.3491, C_E=0.2333) | Composite=+3.630 | Mod=M1 | Ranks[0.4W=10, Full=4, 0.7U=13, 0.7W=13]
+   # 5 | AT2G41110 (ATCAL5    ) | Dir=Up   | log2FC=+1.462 | padj=1.30e-02 | Deg= 33 (C_D=0.0678, C_B=0.0695, C_C=0.3570, C_E=0.1466) | Composite=+3.624 | Mod=M2 | Ranks[0.4W=4, Full=5, 0.7U=8, 0.7W=7]
+   # 6 | AT2G33580 (AtLYK5    ) | Dir=Up   | log2FC=+1.945 | padj=8.45e-04 | Deg= 37 (C_D=0.0760, C_B=0.0409, C_C=0.3439, C_E=0.2165) | Composite=+3.531 | Mod=M1 | Ranks[0.4W=9, Full=6, 0.7U=26, 0.7W=25]
+   # 7 | AT3G01830 (AT3G01830 ) | Dir=Up   | log2FC=+2.236 | padj=1.69e-02 | Deg= 34 (C_D=0.0698, C_B=0.0445, C_C=0.3471, C_E=0.1913) | Composite=+3.362 | Mod=M3 | Ranks[0.4W=14, Full=7, 0.7U=18, 0.7W=19]
+   # 8 | AT3G11840 (PUB24     ) | Dir=Up   | log2FC=+1.616 | padj=4.76e-02 | Deg= 32 (C_D=0.0657, C_B=0.0541, C_C=0.3449, C_E=0.1624) | Composite=+3.301 | Mod=M3 | Ranks[0.4W=20, Full=8, 0.7U=Non-GCC_0700, 0.7W=Non-GCC_0700]
+   # 9 | AT2G41100 (ATCAL4    ) | Dir=Up   | log2FC=+1.770 | padj=2.63e-02 | Deg= 30 (C_D=0.0616, C_B=0.0383, C_C=0.3403, C_E=0.1471) | Composite=+2.778 | Mod=M1 | Ranks[0.4W=18, Full=9, 0.7U=123, 0.7W=123]
+   #10 | AT1G68880 (AtbZIP    ) | Dir=Up   | log2FC=+1.986 | padj=1.49e-04 | Deg= 33 (C_D=0.0678, C_B=0.0504, C_C=0.3349, C_E=0.0911) | Composite=+2.752 | Mod=M2 | Ranks[0.4W=6, Full=10, 0.7U=14, 0.7W=14]
+
+[Tahap 5] Hasil Uji Kestabilan Peringkat terhadap Skema Utama (0.400 GCC Unweighted):
+   * 0.400_GCC_Unweighted (Utama)   | Irisan Top10=10/10 (Jaccard=1.000) | Spearman rho=1.0000 | Kendall tau=1.0000
+     Top 10: #1 ATRBOHD (AT5G47910); #2 CPK28 (AT5G66210); #3 ATEDS1 (AT3G48090); #4 ATMPK11 (AT1G01560); #5 ATCAL5 (AT2G41110); #6 AtLYK5 (AT2G33580); #7 AT3G01830 (AT3G01830); #8 PUB24 (AT3G11840); #9 ATCAL4 (AT2G41100); #10 AtbZIP (AT1G68880)
+   * 0.400_GCC_Weighted             | Irisan Top10=7/10 (Jaccard=0.538) | Spearman rho=0.9719 | Kendall tau=0.8548
+     Top 10: #1 ATRBOHD (AT5G47910); #2 ATHSP70 (AT3G12580); #3 ATEDS1 (AT3G48090); #4 ATCAL5 (AT2G41110); #5 CPK28 (AT5G66210); #6 AtbZIP (AT1G68880); #7 ATLOX3 (AT1G17420); #8 ATPAL2 (AT3G53260); #9 AtLYK5 (AT2G33580); #10 ATMPK11 (AT1G01560)
+   * 0.400_FullActive_Unweighted    | Irisan Top10=10/10 (Jaccard=1.000) | Spearman rho=0.9989 | Kendall tau=0.9774
+     Top 10: #1 ATRBOHD (AT5G47910); #2 CPK28 (AT5G66210); #3 ATEDS1 (AT3G48090); #4 ATMPK11 (AT1G01560); #5 ATCAL5 (AT2G41110); #6 AtLYK5 (AT2G33580); #7 AT3G01830 (AT3G01830); #8 PUB24 (AT3G11840); #9 ATCAL4 (AT2G41100); #10 AtbZIP (AT1G68880)
+   * 0.700_GCC_Unweighted           | Irisan Top10=3/10 (Jaccard=0.176) | Spearman rho=0.6097 | Kendall tau=0.4394
+     Top 10: #1 ATHSP70 (AT3G12580); #2 ATRBOHD (AT5G47910); #3 ATHS83 (AT5G52640); #4 ATEDS1 (AT3G48090); #5 ATHSP101 (AT1G74310); #6 Fes1A (AT3G09350); #7 ATPAL2 (AT3G53260); #8 ATCAL5 (AT2G41110); #9 Hop3 (AT4G12400); #10 HSP23.5 (AT5G51440)
+   * 0.700_GCC_Weighted             | Irisan Top10=3/10 (Jaccard=0.176) | Spearman rho=0.6090 | Kendall tau=0.4345
+     Top 10: #1 ATHSP70 (AT3G12580); #2 ATRBOHD (AT5G47910); #3 ATHS83 (AT5G52640); #4 ATHSP101 (AT1G74310); #5 ATEDS1 (AT3G48090); #6 Fes1A (AT3G09350); #7 ATCAL5 (AT2G41110); #8 ATPAL2 (AT3G53260); #9 Hop3 (AT4G12400); #10 ATFKBP65 (AT5G48570)
+
+[Output Excel] Berkas 'results/top_candidates.xlsx' berhasil disimpan (./results\top_candidates.xlsx).
+
+[Visualisasi] Membuat grafik jaringan PPI, komunitas, distribusi degree, dan profil centrality Top 10...
+[Selesai] Seluruh analisis Tahap 3, 4, dan 5 serta Gambar PPI 03-06 telah disimpan.
+

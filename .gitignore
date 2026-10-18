@@ -1,0 +1,55 @@
+# OS generated files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Microsoft Office temporary files
+~$*
+~WRL*.tmp
+*.tmp
+
+# Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Large upstream genomic raw data (if generated locally)
+data/fastq_raw/
+data/fastq_trimmed/
+data/bam/
+data/reference/
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.sra

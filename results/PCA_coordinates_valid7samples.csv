@@ -1,0 +1,8 @@
+"sample_id","PC1","PC2","kondisi","lane_id","Kondisi_Label"
+"H2O_1h_Rep1",-34.7335365272114,0.836529541632805,"Kontrol_H2O","Lane_4","Kontrol: Air H2O (1 jam)"
+"H2O_1h_Rep2",-40.5990854163002,-1.93247451379069,"Kontrol_H2O","Lane_1","Kontrol: Air H2O (1 jam)"
+"H2O_1h_Rep3",-38.1927529969243,3.39349084471459,"Kontrol_H2O","Lane_3","Kontrol: Air H2O (1 jam)"
+"H2O_1h_Rep4",26.0239396797622,-40.2111477319612,"Kontrol_H2O","Lane_3","Kontrol: Air H2O (1 jam)"
+"C6_1h_Rep2",12.8093736849125,11.61459319492,"Perlakuan_Kitin_C6","Lane_2","Perlakuan: Kitin C6 (1 jam)"
+"C6_1h_Rep3",44.4958085872584,12.8501188389855,"Perlakuan_Kitin_C6","Lane_2","Perlakuan: Kitin C6 (1 jam)"
+"C6_1h_Rep4",30.1962529885027,13.448889825499,"Perlakuan_Kitin_C6","Lane_4","Perlakuan: Kitin C6 (1 jam)"

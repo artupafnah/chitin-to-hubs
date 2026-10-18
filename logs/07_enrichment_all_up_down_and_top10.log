@@ -1,0 +1,74 @@
+﻿==============================================================================
+TAHAP 2 & TAHAP 6: ENRICHMENT GO (BP/MF/CC) & KEGG (ALL DEG, UP, DOWN, TOP 10)
+==============================================================================
+Tanggal Eksekusi: 2026-10-18 01:18:37 
+
+[Input] Universe (semua gen diuji): 19979 gen
+[Input] Semua DEG (|log2FC|>=1.0, padj<0.05): 717 gen
+[Input] DEG Naik (Up): 616 gen | DEG Turun (Down): 101 gen
+[Input] Top 10 Kandidat Hub PPI: 10 gen (ATRBOHD, CPK28, ATEDS1, ATMPK11, ATCAL5, AtLYK5, AT3G01830, PUB24, ATCAL4, AtbZIP)
+
+--- Menjalankan Enrichment untuk: All_DEG_717 (n = 717 gen) ---
+   [GO:BP] Signifikan FDR < 0.05: 77 term | Nominal p < 0.05: 156 term
+   [GO:MF] Signifikan FDR < 0.05: 19 term | Nominal p < 0.05: 49 term
+   [GO:CC] Signifikan FDR < 0.05: 0 term | Nominal p < 0.05: 8 term
+   [KEGG]  Signifikan FDR < 0.05: 2 jalur | Nominal p < 0.05: 10 jalur
+--- Menjalankan Enrichment untuk: Up_DEG_616 (n = 616 gen) ---
+   [GO:BP] Signifikan FDR < 0.05: 71 term | Nominal p < 0.05: 143 term
+   [GO:MF] Signifikan FDR < 0.05: 18 term | Nominal p < 0.05: 44 term
+   [GO:CC] Signifikan FDR < 0.05: 0 term | Nominal p < 0.05: 8 term
+   [KEGG]  Signifikan FDR < 0.05: 2 jalur | Nominal p < 0.05: 11 jalur
+--- Menjalankan Enrichment untuk: Down_DEG_101 (n = 101 gen) ---
+   [GO:BP] Signifikan FDR < 0.05: 0 term | Nominal p < 0.05: 89 term
+   [GO:MF] Signifikan FDR < 0.05: 0 term | Nominal p < 0.05: 13 term
+   [GO:CC] Signifikan FDR < 0.05: 0 term | Nominal p < 0.05: 1 term
+   [KEGG]  Signifikan FDR < 0.05: 0 jalur | Nominal p < 0.05: 1 jalur
+--- Menjalankan Enrichment untuk: Top10_Hubs_10 (n = 10 gen) ---
+   [GO:BP] Signifikan FDR < 0.05: 32 term | Nominal p < 0.05: 48 term
+   [GO:MF] Signifikan FDR < 0.05: 9 term | Nominal p < 0.05: 12 term
+   [GO:CC] Signifikan FDR < 0.05: 0 term | Nominal p < 0.05: 0 term
+   [KEGG]  Signifikan FDR < 0.05: 2 jalur | Nominal p < 0.05: 2 jalur
+
+[Ringkasan Jumlah Term Enrichment Signifikan (FDR < 0.05 & Nominal p < 0.05)]:
+         GeneSet Database Total_Tested_Terms Significant_FDR_005 Nominal_P_005
+1    All_DEG_717    GO:BP               1108                  77           156
+2    All_DEG_717    GO:CC                142                   0             8
+3    All_DEG_717    GO:MF                387                  19            49
+4    All_DEG_717     KEGG                 75                   2            10
+5   Down_DEG_101    GO:BP                440                   0            89
+6   Down_DEG_101    GO:CC                 36                   0             1
+7   Down_DEG_101    GO:MF                146                   0            13
+8   Down_DEG_101     KEGG                 18                   0             1
+9  Top10_Hubs_10    GO:BP                 82                  32            48
+10 Top10_Hubs_10    GO:CC                  7                   0             0
+11 Top10_Hubs_10    GO:MF                 22                   9            12
+12 Top10_Hubs_10     KEGG                  4                   2             2
+13    Up_DEG_616    GO:BP               1034                  71           143
+14    Up_DEG_616    GO:CC                124                   0             8
+15    Up_DEG_616    GO:MF                372                  18            44
+16    Up_DEG_616     KEGG                 70                   2            11
+                             Top_Term_Description Top_Term_ID Top_Term_FDR
+1                           immune system process  GO:0002376 3.279908e-18
+2                                growing cell tip  GO:0035838 7.019607e-01
+3  transmembrane receptor protein kinase activity  GO:0019199 4.129805e-06
+4                      Plant-pathogen interaction    ath04626 8.707102e-19
+5                      monoatomic ion homeostasis  GO:0050801 8.175750e-02
+6                                   lytic vacuole  GO:0000323 4.716646e-01
+7     iron ion transmembrane transporter activity  GO:0005381 2.188102e-01
+8                             Lysosome biogenesis    ath04142 3.605620e-01
+9                             response to hypoxia  GO:0001666 1.114186e-02
+10                                    microtubule  GO:0005874 1.693079e-01
+11                            calcium ion binding  GO:0005509 1.278749e-03
+12                     Plant-pathogen interaction    ath04626 3.143727e-10
+13                          immune system process  GO:0002376 4.234752e-20
+14                               growing cell tip  GO:0035838 3.767806e-01
+15                    signaling receptor activity  GO:0038023 2.734449e-06
+16                     Plant-pathogen interaction    ath04626 8.327099e-19
+
+[Tahap 6] Perbandingan Term Enrichment Top 10 Hub vs Semua DEG (717 gen):
+   - Total term signifikan (FDR < 0.05) pada Top 10 Hub: 43 term
+   - Term yang juga signifikan (FDR < 0.05) pada Semua 717 DEG: 20 term
+   - Term yang spesifik mencapai FDR < 0.05 pada Top 10 Hub: 23 term
+
+[Selesai] Seluruh tabel enrichment (Tahap 2 & 6) dan Gambar PPI 01, 02, 07 telah disimpan.
+

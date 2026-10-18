@@ -1,0 +1,5 @@
+Konfigurasi_Jaringan,Total_DEG_Input,Protein_Terpetakan_STRING,Node_Aktif_Berinteraksi,Node_Terisolasi_Degree0,Jumlah_Edge,Rata2_Degree_Semua_Protein_Terpetakan,Rata2_Degree_Node_Aktif,Kepadatan_Jaringan_Aktif,Jumlah_Komponen_Terhubung_Aktif,Jumlah_Komponen_Total_Termasuk_Isolat,Node_GCC_Komponen_Terbesar,Edge_GCC_Komponen_Terbesar,Persen_Node_Aktif_di_GCC,Clustering_Coefficient_GCC,Diameter_GCC,Rata2_Jarak_Terpendek_GCC
+"1. Semua DEG (|log2FC|>=1.0) - Skor >= 0.400 (Medium, Default Utama)",717,690,503,187,1522,4.4116,6.0517,0.01206,7,194,488,1513,97.02,0.2136,12,4.1853
+"2. Semua DEG (|log2FC|>=1.0) - Skor >= 0.700 (High, Sensitivitas Skor)",717,690,247,443,284,0.8232,2.2996,0.00935,45,488,128,203,51.82,0.2401,19,6.1993
+3. Subset DEG Ketat (|log2FC|>=1.5) - Skor >= 0.400 (Sensitivitas Kepadatan),413,398,249,149,738,3.7085,5.9277,0.0239,8,157,233,729,93.57,0.2743,13,3.8943
+4. Subset DEG Ketat (|log2FC|>=1.5) - Skor >= 0.700 (Ketat & High Confidence),413,398,117,281,123,0.6181,2.1026,0.01813,32,313,21,57,17.95,0.6348,4,2.1381

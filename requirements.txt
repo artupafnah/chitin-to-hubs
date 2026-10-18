@@ -1,0 +1,9 @@
+# Python dependencies for GSE133053 RNA-seq and PPI analysis
+# Python 3.11.9 (tested on Windows 11 x64 / Linux x86_64)
+
+requests==2.32.3
+networkx==3.4.2
+matplotlib==3.10.0
+numpy==2.2.3
+scipy==1.15.2
+openpyxl==3.1.5

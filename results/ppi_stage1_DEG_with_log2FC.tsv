@@ -1,0 +1,718 @@
+gene_id	symbol	log2FC	padj	direction	description
+AT5G45340	CYP707A3	4.6353	1.2611e-63	Up	Encodes a protein with ABA 8'-hydroxylase activity; involved in ABA catabolism. Mutant analyses show that disruption in the gene results in more drought tolerance whereas overexpression results in increased transpiration rate and reduced drought tolerance. Gene involved in postgermination growth. Plant P450 CYP707A3, ABA 8'-hydroxylase, binds enantioselectively (+)-ABA but not (-)-ABA, whereas the enzyme binds both enantiomers of AHI1 (a structural ABA analogue used as ABA 8'-hydroxylase competitive inhibitor).
+AT4G23180	CRK10	3.5383	9.9943e-36	Up	Encodes a receptor-like protein kinase. Naming convention from Chen et al 2003 (PMID 14756307)
+AT1G08450	AtCRT3	2.0193	4.6660e-33	Up	Encodes one of three Arabidopsis calreticulins.   In CRT-deficient mouse fibroblasts, this protein restores ER Ca2+ levels. Non-receptor component required for EFR-mediated immunity. Mutants show de-repressed anthocyanin accumulation in the  presence of elf18, and EFR accumulation and signalling.
+AT3G13650	AT3G13650	5.5507	6.4903e-32	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G64710	AT1G64710	3.0149	6.4892e-31	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G02680	AT2G02680	2.2581	1.7052e-25	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G14040	PHO1;H3	4.3898	4.7867e-23	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G00970	CRK41	3.5794	1.1794e-22	Up	Encodes a cysteine-rich receptor-like protein kinase.
+AT2G17120	CL-1	2.4795	4.5971e-21	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G22470	AGP2	3.9088	2.6967e-19	Up	Encodes arabinogalactan-protein (AGP2).
+AT2G24160	AT2G24160	2.2913	5.0881e-19	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G45070	AtPP2-A8	3.5881	7.0974e-19	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G28490	HAE	2.1823	7.0974e-19	Up	member of Receptor kinase-like protein family
+AT4G30910	AT4G30910	1.6631	6.8373e-18	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G21520	AtDMP1	5.0821	7.6541e-18	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G48450	NOI5	4.1224	2.7964e-17	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G11330	RDA2	1.7271	3.3851e-16	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G26070	ATMEK1	2.3705	6.4410e-16	Up	Member of MAP Kinase Kinase.  Likely functions in a stress-activated MAPK pathway. Can phosphorylate the MAPK AtMPK4, in response to stress. Gets phosphorylated by MEKK1 in response to wounding.
+AT1G79245	AT1G79245	2.3076	2.0692e-15	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G59865	AT1G59865	5.2592	2.2839e-14	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G27130	ATGSTU13	1.6573	6.9260e-14	Up	Encodes glutathione transferase belonging to the tau class of GSTs. Naming convention according to Wagner et al. (2002).
+AT1G65310	ATXTH17	3.8264	1.5756e-13	Up	Encodes a xyloglucan endotransglucosylase/hydrolase with only only the endotransglucosylase (XET; EC   2.4.1.207) activity towards xyloglucan and non-detectable endohydrolytic (XEH; EC 3.2.1.151) activity. Expressed in the mature or basal regions of both the main and lateral roots, but not in the tip of these roots where cell division occurs.
+AT1G58561	AT1G58561	2.1710	2.0773e-13	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G56960	AT5G56960	6.4533	2.7861e-13	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G11521	AT4G11521	2.8152	7.3473e-13	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G28630	AT5G28630	3.8048	7.9925e-13	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G16030	CES101	2.2513	8.8589e-13	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G19320	AT1G19320	7.0121	1.1341e-12	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G17147	AT1G17147	3.7229	3.3910e-12	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G10480	ZFP5	3.2400	5.1067e-12	Up	Encodes a zinc finger protein containing only a single zinc finger.
+AT1G22810	AtERF019	5.7033	5.9698e-12	Up	encodes a member of the DREB subfamily A-5 of ERF/AP2 transcription factor family. The protein contains one AP2 domain. There are 16 members in this subfamily including RAP2.1, RAP2.9 and RAP2.10.
+AT5G19250	AT5G19250	1.5056	5.9698e-12	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G47590	AT1G47590	3.0464	6.2820e-12	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G14368	AT4G14368	3.8127	1.4662e-11	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G48530	AT5G48530	2.7549	2.9811e-11	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G24430	ANAC038	2.0445	3.5169e-11	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G24110	ATWRKY30	5.5648	4.0595e-11	Up	member of WRKY Transcription Factor; Group III
+AT4G32300	SD2-5	1.7684	7.1730e-11	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G03230	SAP1	2.2467	7.4106e-11	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G71520	AT1G71520	5.2115	8.9667e-11	Up	encodes a member of the DREB subfamily A-5 of ERF/AP2 transcription factor family. The protein contains one AP2 domain. There are 16 members in this subfamily including RAP2.1, RAP2.9 and RAP2.10.
+AT3G23120	AtRLP38	4.3833	8.9667e-11	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G66910	AT1G66910	1.6147	9.7003e-11	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G28610	AT5G28610	4.6889	1.1208e-10	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G02010	GAD4	5.2527	1.7120e-10	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G49680	AT5G49680	2.0092	1.8479e-10	Up	Conserved among eukaryotes, similar to Arabidopsis SABRE. The phenotype of the kip/sab double mutant suggests related functions for both genes, however, the KIP protein is mostly required for tip-growth. Predicted to be targeted to the secretory pathway. mRNA was detected in all organs, with most abundance in pollen and roots.
+AT5G23350	AT5G23350	1.7682	2.0444e-10	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G18197	ATPUP7	1.7850	2.1586e-10	Up	Member of a family of proteins related to PUP1, a purine transporter. May be involved in the transport of purine and purine derivatives such as cytokinins, across the plasma membrane.
+AT4G37640	ACA2	2.9581	2.8114e-10	Up	Encodes a calmodulin-regulated Ca(2+)-pump located in the endoplasmic reticulum.  Belongs to plant 2B ATPase's with an N-terminal autoinhibitor.
+AT5G52670	AT5G52670	6.7040	3.4474e-10	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G20780	CML42	3.9811	3.5865e-10	Up	Calcium sensor involved in trichome branching.
+AT3G23230	AtERF98	4.7623	6.0000e-10	Up	encodes a member of the ERF (ethylene response factor) subfamily B-3 of ERF/AP2 transcription factor family. The protein contains one AP2 domain. There are 18 members in this subfamily including ATERF-1, ATERF-2, AND ATERF-5.
+AT5G45280	PAE11	2.0569	6.2681e-10	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G48070	ATXTH20	3.2383	6.4381e-10	Up	putative xyloglucan endotransglycosylase/hydrolase, expressed primarily in the stele of mature non-elongating regions of both the main and the lateral root.  Is expressed in lateral root primordia but expression ceases after lateral root begins to grow.
+AT1G23840	AT1G23840	2.8804	6.4381e-10	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G11000	AT4G11000	3.6087	7.7966e-10	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G17050	AT2G17050	2.3868	8.4312e-10	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G11390	AT3G11390	3.0666	1.0170e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G37670	NAGS2	1.7239	1.1175e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G30090	AT4G30090	2.9039	1.2686e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G52748	AT3G52748	2.4929	1.3057e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G28940	AIG2B	1.7397	1.3783e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G55950	ATCRR3	2.6316	1.4659e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G41180	AT5G41180	1.6473	1.8369e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G15975	ATL17	4.3522	1.8502e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G66640	DAR3	4.0184	1.8502e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G12950	AtDTX31	2.3561	1.8502e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G10720	PMEI-PME25	2.4033	1.9080e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G52800	PrimPol	2.4907	2.0553e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G38540	AT5G38540	3.9683	2.1370e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G61160	AACT1	3.8735	2.4244e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G65390	ATPP2-A5	2.7038	2.4530e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G59620	CW9	1.3872	2.4967e-09	Up	Encodes CW9.
+AT5G35580	PBL13	2.4687	2.5239e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G36150	SAA1	2.2164	2.6592e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G23140	CRK6	3.7682	2.7187e-09	Up	Arabidopsis thaliana receptor-like protein kinase. Naming convention from Chen et al 2003 (PMID 14756307)
+AT5G19240	AT5G19240	3.2443	2.7372e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G43520	AT5G43520	2.6233	2.7649e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G22710	CYP706A2	3.0598	2.7724e-09	Up	member of CYP706A
+AT3G25900	ATHMT-1	2.8618	3.3108e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G56540	AT1G56540	2.1212	3.3594e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G48540	AT5G48540	2.8764	4.1128e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G59540	AT5G59540	1.2922	5.9567e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G59490	AT5G59490	4.0258	6.7531e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G38990	MDS1	1.4468	9.0348e-09	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G23200	AT2G23200	1.5556	1.0843e-08	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G60120	BGLU27	6.1364	1.4724e-08	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G10190	CML36	-2.4912	1.4724e-08	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G14630	GLP9	2.9872	1.4995e-08	Up	germin-like protein with N-terminal signal sequence that may target it to the vacuole, plasma membrane and/or outside the cell.
+AT5G52710	AT5G52710	7.2680	1.8291e-08	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G69840	AtHIR1	2.3096	2.2303e-08	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G04480	AT3G04480	1.3257	2.7460e-08	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G58700	ATPLC4	1.3811	3.3908e-08	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G16640	AT1G16640	2.5394	5.1057e-08	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G47060	CARK3	1.9762	6.2295e-08	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G61420	AT3G61420	-1.1204	6.9380e-08	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G13435	AT3G13435	1.7876	7.8155e-08	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G03020	AT3G03020	2.1898	8.9241e-08	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G11300	EGM1	1.8280	9.3870e-08	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G62150	ABCB21	2.0987	1.1244e-07	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G53080	AT1G53080	5.4302	1.6273e-07	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G76040	CPK29	2.0203	1.7929e-07	Up	member of Calcium Dependent Protein Kinase
+AT3G12910	AT3G12910	6.0244	2.0475e-07	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G46160	ATL67	1.4570	2.0475e-07	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G14680	APS3	2.2581	2.5976e-07	Up	ATP sulfurylase
+AT3G46110	AuxRP3	2.8322	2.6599e-07	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G22690	CYP706A1	2.4920	2.9006e-07	Up	member of CYP706A
+AT3G09940	AtMDAR3	2.8168	3.0798e-07	Up	Encodes a member of the monodehydroascorbate reductase gene family. Critical for a mutualistic symbiosis between the host Arabidopsis and the root colonizing fungus Piriformospora indica.
+AT1G35710	AT1G35710	1.9327	3.3498e-07	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G08710	ATH9	1.9899	3.6460e-07	Up	Associated to plasma membrane. Moves cell to cell, suggesting a role in intercellular communication.
+AT5G62070	IQD23	1.8327	4.0483e-07	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G56800	ACAM-3	1.0826	4.7207e-07	Up	encodes a calmodulin
+AT2G25410	ATL22	2.3708	5.2640e-07	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G79330	AMC6	2.6234	7.3728e-07	Up	Metacaspase AtMCPb2/AMC6. Caspase family protein. Arginine/lysine-specific cysteine protease activity. Induces apoptosis in yeast. Contains Pfam domain, PF00656: ICE-like protease (caspase) p20 domain.
+AT5G47070	PBL19	1.5031	7.7410e-07	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G07650	LMK1	1.1692	7.8416e-07	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G30290	ATXTH19	3.2794	7.8639e-07	Up	Encodes a xyloglucan endotransglucosylase/hydrolase with only only the endotransglucosylase (XET; EC   2.4.1.207) activity towards xyloglucan and non-detectable endohydrolytic (XEH; EC 3.2.1.151) activity. Expressed throughout both the main and the lateral root, with intensive expression at the dividing and elongating regions. Is expressed in lateral root primordia but expression ceases after lateral root begins to grow.
+AT2G24600	AT2G24600	3.5566	8.8639e-07	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G14840	LIK1	1.4517	9.0656e-07	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G14640	AT1G14640	1.8910	1.0659e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G02400	ATGA2OX4	3.1714	1.0803e-06	Up	Encodes a gibberellin 2-oxidase that acts on C19 gibberellins but not C20 gibberellins.
+AT1G30420	ABCC11	2.3135	1.1487e-06	Up	member of MRP subfamily
+AT2G20950	AT2G20950	1.2481	1.2938e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G39450	AT5G39450	1.1811	1.5716e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G37130	AT2G37130	-1.7025	1.6246e-06	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G78410	AT1G78410	3.3462	1.6632e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G19720	AT4G19720	4.3356	1.6656e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G26690	GDPDL3	1.2186	1.6746e-06	Up	Glycerophosphoryl diester phosphodiesterase-like protein involved in cell wall cellulose accumulation and pectin linking. Impacts root hair, trichome and epidermal cell development.
+AT5G52720	AT5G52720	4.4652	1.8535e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G58160	FH13	1.3744	1.8535e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G46140	LEA27	1.0954	1.8647e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G53700	PK3AT	2.0014	1.9050e-06	Up	The WAG1 and its homolog, WAG2 each encodes a protein-serine/threonine kinase that are nearly 70% identical to PsPK3 protein. All three together with CsPK3 belong to PsPK3-type kinases. At the N-terminus, all four possess a serine/threonine-rich domain. They are closely related to Arabidopsis kinases PINOID. wag1/wag2 double mutants exhibit a pronounced wavy root phenotype when grown vertically on agar plates (while wild-type plants develop wavy roots only on plates inclined to angles less than 90 degrees), indicating an overlapping role for WAG1 and WAG2 as suppressors of root waving. Simultaneous disruption of PID(AT2G34650) and its 3 closest homologs (PID2/AT2G26700, WAG1/AT1G53700, and WAG2/AT3G14370) abolishes the formation of cotyledons.
+AT3G44190	AT3G44190	1.2250	1.9389e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G26980	MUB4	2.2413	2.0454e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G36140	SADR1-Paired	1.1377	2.4349e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G14620	AT4G14620	-1.2222	2.4419e-06	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G30210	AR2	2.4260	2.4638e-06	Up	Encodes NADPH-cytochrome P450 reductase that catalyzes the first oxidative step of the phenylpropanoid general pathway.
+AT2G18210	AT2G18210	2.4983	2.5976e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G20820	AtBBE18	-1.4548	2.7836e-06	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G52520	AT3G52520	2.9285	2.8264e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G42380	AtCML37	5.1996	3.0788e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G21230	WAK5	6.9245	3.1916e-06	Up	encodes a wall-associated kinase
+AT4G22640	AT4G22640	4.0578	3.2204e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G18205	AtPUP21	2.0875	3.2598e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G10040	AT1G10040	1.8290	3.3293e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G23220	CRK14	3.5470	3.4035e-06	Up	Encodes a cysteine-rich receptor-like protein kinase.
+AT3G04300	AT3G04300	2.0059	3.5048e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G04210	TN13	1.6728	3.5104e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G49110	ATPCA	2.0916	3.5752e-06	Up	Class III peroxidase Perx33. Expressed in roots. Located in the cell wall. Involved in cell elongation. Expression activated by light.  May play a role in generating H2O2 during defense response.
+AT5G10410	PICALM10b	2.4018	3.7032e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G41170	AT2G41170	1.7415	3.7032e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G07760	AT5G07760	2.2429	3.7446e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G14700	AT5G14700	3.4600	4.0107e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G17690	ATCNGC19	3.5849	4.2228e-06	Up	member of Cyclic nucleotide gated channel family
+AT5G01760	TOL7	2.3232	4.4549e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G74840	AT1G74840	-1.1467	4.6258e-06	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G54120	AT3G54120	1.3152	4.7829e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G44870	LAZ5	1.2003	4.9312e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G55460	AtLTP4.5	2.5237	4.9561e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G61370	AT1G61370	1.9475	5.4848e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G05675	AT1G05675	4.5762	5.9510e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G16660	AT2G16660	2.1133	6.0288e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G14060	AT3G14060	-2.4669	6.0734e-06	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G02770	AT3G02770	1.0811	6.1396e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G00770	TRM9	1.2267	6.5026e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G66600	AT5G66600	1.8462	6.7570e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G24300	AMT1;3	-2.0421	6.9098e-06	Down	Encodes a plasma membrane localized ammonium transporter.
+AT5G14230	AT5G14230	2.0762	7.0515e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G55180	AT5G55180	1.3373	7.1469e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G38932	AT4G38932	-1.2637	7.9592e-06	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G03540	AT2G03540	1.9253	8.1894e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G59860	HSP17.6A	3.1998	8.2726e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G01040	LAC8	1.5880	8.3859e-06	Up	putative laccase, knockout mutant showed early flowering
+AT3G01760	LHT6	2.9973	8.5321e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G30850	HHP2	1.6385	8.6644e-06	Up	heptahelical transmembrane protein homologous to human adiponectin receptors and progestin receptors
+AT2G47140	AtSDR5	2.5638	8.6813e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G32680	AtRLP23	1.9717	9.7030e-06	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G62770	AT5G62770	1.5379	1.0142e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G21270	WAK2	1.4133	1.3539e-05	Up	cytoplasmic serine/threonine protein kinase induced by salicylic acid. mutant plants exhibit a loss of cell expansion and dependence on sugars and salts for seedling growth, affecting the expression and activity of vacuolar invertase.
+AT1G11670	AT1G11670	1.0313	1.3646e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G12200	FMO	2.0004	1.4596e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G25730	EDF3	1.7033	1.5210e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G59070	AT5G59070	1.8837	1.6059e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G12740	ALIS1	1.7887	1.6059e-05	Up	Physically interacts with ALA3, and is required for the phospholipid translocase activity of ALA3.
+AT5G18470	AT5G18470	2.9095	1.6395e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G23230	CRK15	2.4737	1.6531e-05	Up	Encodes a cysteine-rich receptor-like protein kinase.
+AT1G63245	CLE14	2.9356	1.7496e-05	Up	Member of a large family of putative ligands homologous to the Clavata3 gene.  Consists of a single exon. Can not replace CLV3 function in vivo.
+AT1G16420	ATMC8	3.3465	2.0566e-05	Up	Encodes a metacaspase (cysteine-type endopeptidase) that is involved in promoting programmed cell death in response to hydrogen peroxide (H2O2), UV light, and methyl viologen (MV). Transcript levels rise in response to UV-C, H2O2, and MV. In vitro assays demonstrate that this enzyme has a preference for cleaving after an arginine residue, and it has a pH optimum of 8.0.
+AT3G24420	DLK2	2.1737	2.2513e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G07600	AT3G07600	2.7465	2.3017e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G45440	LecRK-I.6	2.0862	2.3239e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G14200	SNIPER1	1.8591	2.3254e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G02800	AtPFA-DSP3	2.5096	2.3471e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G24500	ATMBF1C	2.1579	2.3772e-05	Up	One of three genes in A. thaliana encoding multiprotein bridging factor 1, a highly conserved transcriptional coactivator.  May serve as a bridging factor between a bZIP factor and TBP.  Its expression is specifically elevated in response to pathogen infection, salinity, drought, heat, hydrogen peroxide, and application of abscisic acid or salicylic acid.  Constitutive expression enhances the tolerance of transgenic plants to various biotic and abiotic stresses.
+AT3G28580	AT3G28580	3.7566	2.4168e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G10830	AT5G10830	1.3356	2.5609e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G27010	AT-TCP20	1.5619	2.8216e-05	Up	Belongs to a TCP protein transcription factor family. Members of this family contain a predicted basic-helix-loop-helix domain involved in DNA binding. Related to rice PCF1 and PCF2 genes. Binds to the GCCCR element of CYCB1;1. Involved in regulation of expression of cell cycle control and ribosomal protein genes.
+AT4G10970	UIEF1	1.4397	2.9334e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G67570	DG1	-1.1246	2.9334e-05	Down	Encodes a pentratricopeptide repeat containing protein that is targeted to the chloroplast. Mutants have pale young leave and reduced accumulation of plastid encoded transcripts suggesting a role for DG1 in regulation of plastid gene expression.
+AT1G33590	AT1G33590	2.1283	3.1281e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G39840	AT4G39840	1.2229	3.6773e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G10990	AT1G10990	2.0413	4.0520e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G12400	Hop3	2.3214	4.1149e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G76680	ATOPR1	2.1409	4.2685e-05	Up	Encodes a member of an alpha/beta barrel fold family of FMN-containing oxidoreductases.  One of the closely related 12-oxophytodienoic acid reductases. This enzyme is not expected to participate in jasmonic acid biosynthesis because during in vitro assays, it shows very little activity with the naturally occurring OPDA isomer.  Shows activity towards 2,4,6-trinitrotoluene.  Expressed predominately in root.  Up-regulated by senescence and jasmonic acid. Induced by salicylic acid. Independent of NPR1 for their induction by salicylic acid. Predicted to be a cytosolic protein.
+AT4G05020	NDB2	1.4170	4.2685e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G21070	ATNADK-1	2.2606	4.4380e-05	Up	Encodes a protein with NAD(H) kinase activity.
+AT1G18140	ATLAC1	3.3961	4.4656e-05	Up	putative laccase, a member of laccase family of genes (with 17 members in Arabidopsis).
+AT4G15130	ATCCT2	1.5545	4.8768e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G73080	ATPEPR1	1.3601	4.8768e-05	Up	Encodes a leucine-rich repeat receptor kinase.  Functions as a receptor for AtPep1 to amplify innate immunity response to pathogen attacks.
+AT4G15390	AT4G15390	-1.5019	4.9059e-05	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G47730	ATGSTF5	2.0141	4.9191e-05	Up	Encodes glutathione transferase belonging to the phi class of GSTs. Naming convention according to Wagner et al. (2002).
+AT5G66620	DAR6	2.0568	4.9238e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G18340	AT4G18340	1.7538	4.9238e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G25470	AtRLP21	2.1334	5.2041e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G02390	ATGPAT2	1.9412	5.2570e-05	Up	Encodes a member of a family of proteins with glycerol-3-phosphate acyltransferase activity.
+AT4G00760	APRR8	1.0088	5.4469e-05	Up	Encodes a response-regulator like protein.
+AT5G66210	CPK28	2.4216	5.8671e-05	Up	member of Calcium Dependent Protein Kinase
+AT1G53440	AT1G53440	2.0241	5.9598e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G15120	AT2G15120	2.7558	6.1467e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G14440	ATECI3	1.1253	6.5362e-05	Up	encodes a cytosolic delta3, delta2-enoyl CoA isomerase, involved in unsaturated fatty acid degradation
+AT5G01490	ATCAX4	2.0197	6.6540e-05	Up	Encodes a cation/proton antiporter, a member of low affinity calcium antiporter CAX2 family. Involved in root development under metal stress.
+AT3G14680	CYP72A14	-1.4834	6.8983e-05	Down	putative cytochrome P450
+AT2G28970	AT2G28970	1.2792	7.3379e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G44070	ARA8	2.8840	7.6181e-05	Up	Phytochelatin synthase gene confers tolerance to cadmium ions. Catalyzes phytochelatin (PC) synthesis from glutathione (GSH) in the presence of Cd2+, Zn2+, Cu2+ and Fe3+, but not by Co2+ or Ni2+.
+AT5G46330	FLS2	2.1346	8.0179e-05	Up	Encodes a leucine-rich repeat serine/threonine protein kinase that is expressed ubiquitously. FLS2 is involved in MAP kinase signalling relay involved in innate immunity. Essential in the perception of flagellin, a potent elicitor of the defense response.  FLS2 is directed for degradation by the bacterial ubiquitin ligase AvrPtoB.
+AT1G57990	ATPUP18	2.3456	8.0549e-05	Up	Member of a family of proteins related to PUP1, a purine transporter. May be involved in the transport of purine and purine derivatives such as cytokinins, across the plasma membrane.
+AT4G23200	CRK12	1.8550	8.4688e-05	Up	Encodes a cysteine-rich receptor-like protein kinase.
+AT4G23250	CRK17	1.4745	8.4688e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G17615	ATCBL1	2.0203	8.6809e-05	Up	Member of AtCBL (Calcineurin B-like Calcium Sensor Proteins) family. Protein level is increased upon high salt, mannitol, and cold stresses. CBL1 interacts with CIPK23 and recruits the kinase to the plasma membrane where the substrate(s) of CIPK23 may reside. CBL1 localization is regulated by protein modification including myristolation and acylation.
+AT3G54200	NHL39	1.2999	9.5999e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G24970	AtMORC7	1.4593	9.7622e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G50750	AT1G50750	3.0166	9.9085e-05	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G44260	AtCAF1a	1.1125	1.0087e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G12720	AtNUDT7	2.8375	1.0233e-04	Up	Encodes a protein with ADP-ribose hydrolase activity. Negatively regulates EDS1-conditioned plant defense and programmed cell death.
+AT3G13100	ABCC7	2.2566	1.0711e-04	Up	member of MRP subfamily
+AT2G01300	AT2G01300	1.8040	1.0772e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G46910	JMJ13	1.5019	1.0851e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G47090	AT3G47090	2.3350	1.0903e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G33480	ANAC041	1.6504	1.2015e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G60760	AT5G60760	2.1455	1.2102e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G29120	ATGLR2.7	1.6185	1.2452e-04	Up	member of Putative ligand-gated ion channel subunit family
+AT4G36090	ALKBH9C	1.0478	1.2805e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G15356	AT3G15356	2.3567	1.2837e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G70990	EXT33	1.3503	1.3654e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G24165	AT2G24165	2.8932	1.3657e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G01070	UMAMIT28	-1.3668	1.3657e-04	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G63420	AGG1	1.2592	1.3823e-04	Up	heterotrimeric G protein gamma-subunit (AGG1) mRNA,
+AT1G53110	AT1G53110	1.7833	1.4675e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G23830	AT1G23830	1.2101	1.4675e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G68880	AtbZIP	1.9858	1.4903e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G10530	AT4G10530	5.9091	1.5194e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G21410	SKP2A	-1.2075	1.5458e-04	Down	AtSKP2;1 is a homolog of human SKP2, the human F-box protein that recruits E2F1.  Contains an F-box motif at the N-terminal region and a C-terminal Leu-rich repeat domain.  Forms part of an E3-ubiquitin-ligase SCF (Skp1, cullin, F-box) complex and recruits phosphorylated AtE2Fc, a transcriptional factor that might play a role in cell division and during the transition from skotomorphogenesis to photomorphogenesis.  AtSKP2;1 (At1g21410) and AtSKP2;2 (At1g77000) may be duplicated genes.
+AT1G53990	GLIP3	2.1999	1.5955e-04	Up	Contains lipase signature motif and GDSL domain.
+AT2G35710	PGSIP7	2.7065	1.6302e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G19380	AT1G19380	2.9098	1.7125e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G39838	AT4G39838	1.0817	1.7125e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G32450	AtNPF7.3	-1.9558	1.7680e-04	Down	Transmembrane nitrate transporter. Involved in xylem transport of nitrate from root to shoot. Induced in response to nitrate. Not involved in nitrate uptake. expressed in root pericycle cells.
+AT3G11370	AT3G11370	2.2895	1.7751e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G55450	AT1G55450	3.0003	1.7752e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G46430	ATCNGC3	2.3758	1.8546e-04	Up	cyclic nucleotide gated channel (CNGC4), downstream component of the signaling pathways leading to HR/resistance
+AT1G68450	PDE337	2.3438	1.8999e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G23030	AT4G23030	2.8483	1.9432e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G13650	GONST1	1.7454	1.9449e-04	Up	Encodes a Golgi-localized GDP-mannose transporter.
+AT4G01740	AT4G01740	1.4704	1.9968e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G19020	HUP35	3.4250	2.0353e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G01540	LecRK-VI.2	2.6893	2.1535e-04	Up	Encodes LecRKA4.1, a member of the lectin receptor kinase subfamily A4 (LecRKA4.1 At5g01540; LecRKA4.2 At5g01550; LecRKA4.3 At5g01560).  Together with other members of the subfamily, functions redundantly in the negative regulation of ABA response in seed germination.
+AT4G21903	AT4G21903	2.7163	2.1725e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G15540	IAA19	1.7173	2.4022e-04	Up	Primary auxin-responsive gene. Involved in the regulation stamen filaments development.
+AT2G32240	PICC	2.1286	2.5686e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G01542	AT5G01542	2.7600	2.6360e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G01530	MLP329	-1.1736	2.7229e-04	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G13610	F6'H1	1.2295	2.7494e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G21850	ATMSRB9	1.8140	2.8406e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G33055	HUP32	-1.8613	3.0037e-04	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G44860	FAMT	2.2764	3.1034e-04	Up	Encodes a farnesoic acid carboxyl-O-methyltransferase.
+AT5G23360	AT5G23360	1.3726	3.1712e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G78290	SNRK2-8	-1.0867	3.2151e-04	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G20560	DNAJ	2.1594	3.2868e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G23300	AT2G23300	1.3070	3.4688e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G51920	ATCML9	1.6228	3.6031e-04	Up	encodes a divergent member of calmodulin, which is an EF-hand family of Ca2+-binding proteins. This gene is expressed in leaves, flowers and siliques. The gene functionally complements yeast calmodulin 1 (CAM1) but only  when selected against the plasmid harboring wild-type yeast sequences. Also the protein does not form formed a complex with a basic amphiphilic helical peptide in the presence of Ca2+ in vitro. Authors suggest that this gene may represent a Ca2+-binding sensor protein that interacts with a more limited set of target proteins than do more conventional CaM isoforms. Mutations in this gene alter plant responses to abiotic stress and abscisic acid.
+AT1G11000	ATMLO4	1.5316	3.6031e-04	Up	A member of a large family of seven-transmembrane domain proteins specific to plants, homologs of the barley mildew resistance locus o (MLO) protein. The Arabidopsis genome contains 15 genes encoding MLO proteins, with localization in plasma membrane. Phylogenetic analysis revealed four clades of closely-related AtMLO genes. ATMLO4 belongs to the clade I, with AtMLO11 and AtMLO14. The gene is expressed during early seedling growth, in roots and lateral root primordia, in flower and fruit abscission zone, in vascular system of root, cotyledons and young leaves, it was not expressed in mature rosette leaves, as shown by GUS activity patterns. The expression of several phylogenetically closely-related AtMLO genes showed similar or overlapping tissue specificity and analogous responsiveness to external stimuli, suggesting functional redundancy, co-function, or antagonistic function(s).
+AT2G28830	AtPUB12	1.5075	3.6031e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G30340	ATDGK7	1.3226	3.6031e-04	Up	encodes a diacylglycerol kinase. Applying  a specific diacylglycerol kinase inhibitor to the growth media resulted in reduced root elongation and plant growth. Gene is expressed throughout the plant but is strongest in flowers and young seedlings.
+AT3G26680	ATSNM1	1.7788	3.6051e-04	Up	involved in a SNM-dependent recombinational  repair process of oxidatively induced DNA damage.
+AT3G07090	Desi1	1.4850	3.6213e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G30020	AP2C1	1.2567	3.6365e-04	Up	Encodes AP2C1.  Belongs to the clade B of the PP2C-superfamily.  Acts as a MAPK phosphatase that negatively regulates MPK4 and MPK6.
+AT1G23090	AST91	1.0353	3.6500e-04	Up	Encodes AST91 mRNA for sulfate transporter.
+AT3G24518	AT3G24518	-1.2371	3.8551e-04	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G58570	AT5G58570	-1.7110	4.0893e-04	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G47570	AT3G47570	1.2620	4.1309e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G22650	A/N-InvD	1.2884	4.2038e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G27690	CYP94C1	3.2049	4.2184e-04	Up	Encodes a CYP94C1. Has highest omega-hydroxylase activity with 9,10-epoxystearic acid, while also metabolized lauric acid (C12:0) and C18 unsaturated fatty acids. Gene expression is induced in response to wounding and jasmonic acid treatment.
+AT5G66850	MAPKKK5	1.5513	4.2184e-04	Up	member of MEKK subfamily
+AT2G31230	ATERF15	2.0210	4.3842e-04	Up	encodes a member of the ERF (ethylene response factor) subfamily B-3 of ERF/AP2 transcription factor family. The protein contains one AP2 domain. There are 18 members in this subfamily including ATERF-1, ATERF-2, AND ATERF-5.
+AT2G28200	ZAT5	-1.4427	4.4217e-04	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G17700	ATCNGC20	1.9967	4.4802e-04	Up	cyclic nucleotide-binding transporter 1, member of a family  of cyclic nucleotide gated channels.
+AT3G23010	AtRLP36	2.2150	4.5086e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G46768	RAP2.1	-1.0149	4.5481e-04	Down	encodes a member of the DREB subfamily A-5 of ERF/AP2 transcription factor family (RAP2.1). The protein contains one AP2 domain. There are 16 members in this subfamily including RAP2.9 and RAP2.10.
+AT1G17600	SOC3	1.1023	4.5524e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G27070	TOM20-1	1.9813	4.9650e-04	Up	Form of TOM20, which is a component of the TOM complex, involved in transport of nuclear-encoded mitochondrial proteins
+AT1G12240	ATBETAFRUCT4	-1.2911	5.2093e-04	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G57630	ExAD	1.6144	5.2674e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G05120	ATGID1A	-1.4114	5.3587e-04	Down	Encodes a gibberellin (GA) receptor ortholog of the rice GA receptor gene (OsGID1). Has GA-binding activity, showing higher affinity to GA4. Interacts with DELLA proteins in vivo in the presence of GA4. The DELLA region alone can interact with GID1A in GA-dependent manner in a Y2H assay.
+AT5G49780	AT5G49780	2.1265	5.4531e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G11010	AtRLP34	1.5918	5.5408e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G36500	AT4G36500	2.2785	5.7461e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G55646	AT3G55646	1.1535	5.7461e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G13930	AT1G13930	-1.1160	5.9555e-04	Down	Involved in response to salt stress.  Knockout mutants are hypersensitive to salt stress.
+AT1G21250	AtWAK1	2.2690	6.0841e-04	Up	cell wall-associated kinase, may function as a signaling receptor of extracellular matrix component such as oligogalacturonides.
+AT3G61430	ATPIP1	-1.0075	6.3347e-04	Down	a member of the plasma membrane intrinsic protein subfamily PIP1. localizes to the plasma membrane and exhibits water transport activity in Xenopus oocyte. expressed ubiquitously and protein level decreases slightly during leaf development.
+AT3G63210	MARD1	-1.1238	6.5076e-04	Down	encodes a novel zinc-finger protein with a  proline-rich N-terminus, identical to senescence-associated protein SAG102
+AT4G14400	ACD6	2.5860	6.7163e-04	Up	encodes a novel protein with putative ankyrin and transmembrane regions. It is a member of one of the largest uncharacterized gene families in higher plants. The gene is involved in resistance to Pseudomonas syringae.
+AT5G13190	AtGILP	1.7470	6.7734e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G72200	ATL11	-1.6258	6.8544e-04	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G22630	ADT5	1.0892	6.8802e-04	Up	Encodes a plastid-localized arogenate dehydratase involved in phenylalanine biosynthesis.  Not less than six genes encoding ADT were identi&#64257;ed in the Arabidopsis genome: ADT1 [At1g11790]; ADT2 [At3g07630]; ADT3 [At2g27820]; ADT4 [At3g44720]; ADT5 [At5g22630]; and ADT6 [At1g08250].
+AT5G04870	ATCPK1	1.5853	7.4998e-04	Up	A calcium-dependent protein kinase that can phosphorylate phenylalanine ammonia lyase (PAL), a key enzyme in pathogen defense.
+AT2G43000	ANAC042	3.2076	7.7585e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G52640	ATHS83	2.6199	8.0376e-04	Up	Encodes a cytosolic heat shock protein AtHSP90.1.  AtHSP90.1 interacts with disease resistance signaling components SGT1b and RAR1 and is required for RPS2-mediated resistance.
+AT4G27300	AT4G27300	1.6804	8.0424e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G23200	HMS	1.2136	8.0845e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G33580	AtLYK5	1.9446	8.4505e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G43760	KCS20	1.0389	8.4522e-04	Up	Encodes KCS20, a member of the 3-ketoacyl-CoA synthase family involved in the biosynthesis of VLCFA (very long chain fatty acids).
+AT4G08300	UMAMIT17	-1.0385	8.5171e-04	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G33600	AT1G33600	1.8973	8.5552e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G28570	AT2G28570	1.5704	8.6163e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G50190	AT3G50190	1.6277	8.6809e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G72450	JAZ6	1.2317	8.9317e-04	Up	JAZ6 transcript levels rise in response to a jasmonate stimulus and a GFP:JAZ6 fusion protein localizes to the nucleus.  Application of jasmonate methyl ester to Arabidopsis roots reduces the levels of a JAZ6:GUS fusion protein, presumably by stimulating ubiquitin-proteasome-mediated degradation.
+AT4G29780	AT4G29780	1.8576	9.0323e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G76970	TOL4	1.9688	9.0441e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G15220	AT2G15220	2.7707	9.2652e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G01513	AT3G01513	1.7104	9.4196e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G03180	AT5G03180	-1.1825	9.7384e-04	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G21500	AT4G21500	1.6461	9.9854e-04	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G69480	AT1G69480	-2.5990	1.0004e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G58690	ATPLC5	1.1390	1.0047e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G39110	PBL38	1.1405	1.0354e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G02230	AT5G02230	1.9566	1.0553e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G26660	ATMYB86	1.0107	1.0927e-03	Up	a MYB gene encodes a transcriptional repressor of the C4H gene which is involved in the biosynthesis of sinapate esters.
+AT4G15480	UGT84A1	2.1452	1.0992e-03	Up	Encodes a protein that might have sinapic acid:UDP-glucose glucosyltransferase activity.
+AT5G03570	ATIREG2	-1.4313	1.1048e-03	Down	Encodes FPN2, a tonoplast localized nickel transport protein. FPN2 is one of the Arabidopsis orthologs (AT2G38460/IREG1/FPN1 and AT5G03570/IREG2/FPN2) the iron efflux transporter ferroportin (FPN) identified in animals.
+AT2G18735	AT2G18735	-1.1195	1.1738e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G02880	TPK1	1.2206	1.1897e-03	Up	Encodes a thiamine pyrophosphokinase capable of producing thiamine pyrophosphate from free thiamine.
+AT1G50740	AT1G50740	2.4243	1.2304e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G01150	RHA2B	1.9936	1.2705e-03	Up	Encodes a RING-H2 finger protein that is expressed in vascular tissue, root tips, embryos and pistils.
+AT5G52020	AT5G52020	1.7745	1.2859e-03	Up	encodes a member of the DREB subfamily A-4 of ERF/AP2 transcription factor family. The protein contains one AP2 domain. There are 17 members in this subfamily including TINY.
+AT1G28010	ABCB14	1.0571	1.3073e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G11070	AtWRKY41	2.2488	1.3148e-03	Up	member of WRKY Transcription Factor; Group III
+AT1G61380	LORE	1.2628	1.3353e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G47680	AtC3H31	1.4366	1.3859e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G22600	LTPG5	1.5160	1.3865e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G29720	CTF2B	2.4656	1.5453e-03	Up	Encodes CTF2B.
+AT4G23870	TZ1	-1.4111	1.5453e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G32250	FRS2	1.3760	1.5453e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G28960	AT2G28960	1.2501	1.5919e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G29050	TBL38	1.2138	1.5951e-03	Up	Encodes a member of the TBL (TRICHOME BIREFRINGENCE-LIKE) gene family containing a plant-specific DUF231 (domain of unknown function) domain. TBL gene family has 46 members, two of which (TBR/AT5G06700 and TBL3/AT5G01360) have been shown to be involved in the synthesis and deposition of secondary wall cellulose, presumably by influencing the esterification state of pectic polymers. A nomenclature for this gene family has been proposed (Volker Bischoff & Wolf Scheible, 2010, personal communication).
+AT1G61050	AT1G61050	-1.9181	1.6423e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G59550	AtRDUF2	1.3019	1.6423e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G33420	Prx47	1.2870	1.6423e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G18150	AT2G18150	1.7339	1.6974e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G55840	AT3G55840	1.5114	1.6974e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G16190	RD19c	-1.3987	1.6974e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G38620	ATMYB4	1.2752	1.7244e-03	Up	Encodes a R2R3 MYB protein which is involved in the response to UV-B.  It functions as a repressor of target gene expression.  One of its target genes encodes cinnamate 4-hydroxylase; mutants accumulate sinapate esters in their leaves. MYB4 binds to its own promoter and represses its own expression. Nuclear localization of MYB4 depends on the action of the beta importin SAD2.
+AT4G29905	AT4G29905	-1.3794	1.7806e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G01880	ATL74	-1.6978	1.7807e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G02840	AT3G02840	3.6315	1.7883e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G00910	AT4G00910	-1.4723	1.7909e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G23175	AT3G23175	1.2402	1.8555e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G40010	AATP1	2.0374	1.8620e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G38210	LRK10L3	1.4310	1.8884e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G33880	RSL2	1.7296	1.8912e-03	Up	RSL2 was expressed concurrently with RSL4 and its expression was controlled by RHD6 and RSL1. Required for root-hair growth.
+AT3G46710	AT3G46710	1.7190	1.8912e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G11230	RbohI	1.6453	1.9421e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G15500	UGT84A4	1.2638	1.9583e-03	Up	Encodes a protein that might have sinapic acid:UDP-glucose glucosyltransferase activity.
+AT3G44540	FAR4	1.2340	1.9856e-03	Up	Encodes a member of the eight-member gene family encoding alcohol-forming fatty acyl-CoA reductases (FARs) identified in Arabidopsis thaliana.  Three of the FARs, FAR1 (At5g22500), FAR4 (At3g44540) and FAR5 (At3g44550), are shown to generate the fatty alcohols found in root, seed coat, and wound-induced leaf tissue.
+AT2G32235	AT2G32235	2.1564	2.0079e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G17710	AT2G17710	-1.0722	2.0224e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G46554	AT1G46554	-1.1621	2.0965e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G68340	AT1G68340	1.5162	2.2105e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G34930	AT2G34930	1.1363	2.2151e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G35070	AT4G35070	1.4718	2.3253e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G08930	ERD6	2.0531	2.4380e-03	Up	encodes a putative sucrose transporter whose gene expression is induced by dehydration and cold.
+AT1G11320	AT1G11320	1.1615	2.4782e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G47560	ATSDAT	-1.0977	2.6083e-03	Down	Encodes a tonoplast malate/fumarate transporter.
+AT1G78995	AT1G78995	-1.3578	2.6276e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G28085	AT4G28085	3.3076	2.6498e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G59880	AT3G59880	1.5035	2.7133e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G09830	PBL39	2.2988	2.7340e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G09800	PUB28	2.3802	2.7712e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G39020	MDS3	2.0553	2.7792e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G05320	AtOFT1	1.0721	3.0207e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G34810	SAUR5	1.3491	3.0692e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G21100	AT2G21100	1.3685	3.0743e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G22250	EAU2	1.6349	3.1139e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G03840	IDD3	1.2601	3.1139e-03	Up	MGP is a nuclear-localized putative transcription factor with three zinc finger domains. MGP can interact with three proteins implicated in root patterning: SCR, SHR, and JKD in Y2H assays, and these interactions depend on the first zinc finger in MGP. MGP appears to be a direct transcriptional target of SHR and SCR, based on promoter binding assays, though it is not expressed in the QC, based on in situ hybridizations.
+AT1G80830	ATNRAMP1	-1.2591	3.1914e-03	Down	Thought to be involved in iron homeostasis. Induced in leaves in response to iron deficiency. Transgenic plants accumulate toxic levels of iron. Gene complements yeast iron uptake mutants.
+AT4G32940	AEP3	-1.3170	3.2503e-03	Down	Encodes a vacuolar processing enzyme belonging to a novel group of cysteine proteinases that is expressed in vegetative organs and is upregulated in association with various types of cell death and under stressed conditions. They are essential in processing seed storage proteins and for mediating the susceptible response of toxin-induced cell death.
+AT1G52270	AT1G52270	1.1521	3.2609e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G46680	ATHB-7	-1.1098	3.2609e-03	Down	encodes a putative transcription factor that contains a homeodomain closely linked to a leucine zipper motif. Transcript is detected in all tissues examined.  Is transcriptionally regulated in an ABA-dependent manner and may act in a signal transduction pathway which mediates a drought response.
+AT2G43140	bHLH129	1.0177	3.2609e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G01732	AT5G01732	1.0298	3.3035e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G63830	AT1G63830	1.5292	3.3566e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G26290	ARSK1	1.5703	3.4340e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G41550	AT5G41550	1.3654	3.4340e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G07580	AT3G07580	1.5054	3.4348e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G21865	AT4G21865	1.4853	3.5126e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G65160	TPR14	1.1953	3.5126e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G10946	AT5G10946	-1.2504	3.5371e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G49770	AT5G49770	1.6868	3.5491e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G35190	LOG5	2.2870	3.6876e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G67000	AT1G67000	2.2894	3.7812e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G16940	SIKIC1	1.1346	3.7812e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G18050	HIS1-3	-1.7018	3.7900e-03	Down	encodes a structurally divergent linker histone whose gene expression is induced by dehydration and ABA.
+AT5G04930	ALA1	1.3986	3.7900e-03	Up	Encodes a putative aminophospholipid translocase (p-type ATPase) involved in chilling response.
+AT5G51440	HSP23.5	2.1932	3.8309e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G23130	CRK5	1.6032	3.8358e-03	Up	Encodes a receptor-like protein kinase. Naming convention from Chen et al 2003 (PMID 14756307)
+AT5G52310	COR78	1.1836	3.8358e-03	Up	cold regulated gene, the 5' region of cor78 has cis-acting regulatory elements that can impart cold-regulated gene expression
+AT4G15300	CYP702A2	1.4795	3.8895e-03	Up	a member of the cytochrome P450 gene family. molecular function unknown.
+AT3G57460	AT3G57460	2.6969	3.9187e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G33070	AtPDC1	1.2348	3.9187e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G00300	AT4G00300	1.1799	3.9187e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G63630	RH31	-1.0698	3.9681e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G53450	AT1G53450	1.0072	3.9681e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G47910	ATRBOHD	1.2222	3.9897e-03	Up	NADPH/respiratory burst oxidase protein D (RbohD).Interacts with AtrbohF gene to fine tune the spatial control of ROI production and hypersensitive response to cell in and around infection site.
+AT1G07620	ATOBGM	1.7003	4.0751e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G16960	SIKIC3	1.4436	4.1019e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G01850	ATXTH27	-1.2457	4.1474e-03	Down	EXGT-A3 has homology to xyloglucan endotransglucosylases/hydrolases (XTHs). Mutants in this gene show a lesion mimic phenotype associated with leaf maturation and a reduction in the number of tertiary veins. Individual tracheary elements in the mutants are shorter, but phloem transport activity is not severely affected. EXGT-A3 plays a role in xyloglucan degradation in the differentiating tracheary elements of rosette leaves.
+AT5G12340	AT5G12340	2.0984	4.1490e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G41342	AT2G41342	1.6970	4.1490e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G18710	ATPUB29	1.5747	4.2059e-03	Up	Encodes a protein containing a U-box and an ARM domain. This protein has E3 ubiquitin ligase activity based on in vitro assays.
+AT2G32800	AP4.3A	1.0240	4.2406e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G57330	ACA11	1.5284	4.2758e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G44460	CML43	1.7450	4.2785e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G13790	ATSERK4	1.9047	4.2942e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G39795	AT4G39795	-1.4787	4.3168e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G15140	AT4G15140	1.2240	4.3388e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G09570	ATCPK4	1.4614	4.4942e-03	Up	Encodes a member of Calcium Dependent Protein Kinase (CDPK) gene family.Positive regulator of ABA signaling. Phosphorylates ABA responsive transcription factors ABF1 and ABF4.
+AT4G39230	AtPCBER1	1.9671	4.5364e-03	Up	encodes a protein whose sequence is similar to phenylcoumaran benzylic ether reductase (PCBER), which catalyzes NADPH-dependent reduction of 8-5' linked lignans such as dehydrodiconiferyl alcohol to give isodihydrodehydrodiconiferyl alcohol.
+AT4G35380	BIG4	1.6323	4.5530e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G15390	atfut4	2.1925	4.5920e-03	Up	Predicted fucosyltransferase, based on similarity to FUT1, but not functionally redundant with FUT1.
+AT4G10390	AT4G10390	1.2486	4.5920e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G72140	NPF5.12	1.6017	4.8935e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G22690	AT5G22690	1.4458	4.8935e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G28550	AT4G28550	1.3312	4.8964e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G04220	AT3G04220	2.8378	5.0593e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G38212	AT5G38212	1.3070	5.0882e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G09240	ATNAS3	-1.0652	5.2197e-03	Down	Encodes a nicotianamine synthase.
+AT5G17000	AT5G17000	1.0606	5.2197e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G53590	SAUR30	1.3504	5.2493e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G74440	MHL	1.5314	5.2938e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G20935	CYP705A28	-2.1563	5.4174e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G24145	AT1G24145	2.1007	5.4751e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G23960	AT2G23960	1.7066	5.4898e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G17800	AtMYB56	-1.5827	5.5082e-03	Down	Member of the R2R3 factor gene family.
+AT3G29010	AT3G29010	1.2137	5.5082e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G28110	FRA8	-1.3513	5.5360e-03	Down	Homolog to AT5G22940, a member of glycosyltransferase family 47 that is involved in secondary cell wall biosynthesis. It exhibits high sequence similarity to tobacco (Nicotiana plumbaginifolia) pectin glucuronyltransferase. Protein has a domain that shares significant similarity with the pfam03016 domain.  It is expressed specifically in developing vessels and fiber cells, and FRA8 is targeted to Golgi. Mutants have irregular xylem formation, reduced cellulose levels and plants are smaller than normal siblings.
+AT1G04360	ATL1	1.0848	5.5656e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G03770	ATRING1B	1.0770	5.6302e-03	Up	Encodes a nuclear localized protein with similarity to animal polycomb repressive core complex1 (PRC1) core component RING.Appears to function redundantly with ATRING1a, a close paralog. Both interact physically with CLF and LHP1 and appear to function together to repress class I KNOX gene expression.
+AT1G21110	IGMT3	3.3484	5.7351e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G40085	AT4G40085	1.3711	5.9318e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G64065	AT1G64065	1.8197	6.0007e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G21130	IGMT4	2.2433	6.1140e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G08310	AT1G08310	-1.4978	6.1785e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G01380	AT5G01380	2.2548	6.2366e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G01730	ATSCAR4	1.1864	6.2677e-03	Up	Encodes a member of the SCAR family.These proteins are part of a complex (WAVE) complex.The SCAR subunit activates the ARP2/3 complex which in turn act as a nucleator for actin filaments.
+AT4G13820	AT4G13820	1.3959	6.3536e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G45530	AT3G45530	1.7257	6.4932e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G23190	AT-RLK3	2.3069	6.6493e-03	Up	Encodes putative receptor-like protein kinase that is induced by the soil-borne vascular bacteria, Ralstonia solanacearum. Naming convention from Chen et al 2003 (PMID 14756307)
+AT2G17060	AT2G17060	1.4249	6.9328e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G47540	AT3G47540	1.3712	6.9907e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G05880	ARI12	2.7624	6.9932e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G52880	ANAC018	-1.0595	6.9970e-03	Down	Transcription factor with a NAC domain.  Homologous to the petunia gene NAM which is required for the development of the shoot. Expressed in the embryo.
+AT4G05050	UBQ11	1.0177	6.9970e-03	Up	polyubiquitin gene, belongs to a subtype group with UBQ10 and UBQ14.  Various ecotypes of Arabidopsis have different numbers of ubiquitin repeats within this gene.
+AT5G24040	AtFDA19	1.3528	7.5068e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G57190	PSD2	2.1933	7.5656e-03	Up	Encodes the minor form of the two non-mitochondrail phosphatidylserine decarboxylase. The gene expression level is very low. Located at the tonoplast.
+AT2G31880	EVR	1.7182	7.7871e-03	Up	Encodes a putative leucine rich repeat transmembrane protein that is expressed in response to Pseudomonas syringae. Expression of SRRLK may be required for silencing via lsiRNAs.  Regulates cell death and innate immunity.
+AT1G75000	ELO3	1.3514	7.7871e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G69810	ATWRKY36	1.0491	7.7871e-03	Up	member of WRKY Transcription Factor; Group II-b
+AT1G67365	AT1G67365	-1.2307	7.8217e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G12480	CPK7	1.1591	8.1646e-03	Up	calmodulin-domain protein kinase CDPK isoform 7 (CPK7)
+AT1G59820	ALA3	1.0310	8.1646e-03	Up	Encodes a phospholipid translocase. Involved in secretory vesicle formation from trans-Golgi in peripheral columella cells at the root tip. Mutants have short primary roots and grow slower.
+AT2G26190	IQM4	1.2692	8.1840e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G47220	ATDUF5	-1.0003	8.1840e-03	Down	Member of the plant-specific DUF724 protein family. Arabidopsis has 10 DUF724 proteins. Loss of function mutant has a WT phenotype
+AT4G23160	CRK8	2.0874	8.1874e-03	Up	Encodes a cysteine-rich receptor-like protein kinase.
+AT3G25780	AOC3	1.9360	8.3915e-03	Up	Encodes allene oxide cyclase, one of the enzymes involved in jasmonic acid biosynthesis.  One of four genes in Arabidopsis that encode this enzyme.  mRNA expression is upregulated in senescing leaves.  Note: Nomenclature for Arabidopsis allene oxide cyclase 3 (AOC3, AT3G25780) gene is based on Stenzel et al. 2003 Plant Molecular Biology 51:895-911. AOC3 (AT3G25780) is also referred to as AOC2 in He et al. 2002 Plant Physiology, 128:876-884.
+AT1G59870	ABCG36	1.9692	8.3991e-03	Up	ATP binding cassette transporter. Localized to the plasma membrane in uninfected cells. In infected leaves, the protein concentrated at  infection sites. Contributes to nonhost resistance to inappropriate pathogens that enter by direct penetration in a salicylic aciddependent manner. Required for mlo resistance.  Has Cd transporter activity (Cd2+ extrusion pump) and contributes to heavy metal resistance.
+AT4G17370	AT4G17370	-1.0326	8.3991e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G54720	AT5G54720	1.7458	8.4859e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G69150	AT1G69150	2.9422	8.5331e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G54585	AT5G54585	-1.3511	8.7078e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G03220	SAP2	1.8270	8.8021e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G46440	ATCNGC11	1.6155	8.8021e-03	Up	Member of Cyclic nucleotide gated channel family. Positive regulator of resistance against avirulent fungal pathogen.
+AT2G15760	AT2G15760	1.6137	8.8021e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G01430	ATHB-17	1.2013	8.8021e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G02830	AT4G02830	1.0102	8.8021e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G06730	AT5G06730	1.5023	8.9160e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G65840	ATPAO4	1.0464	9.1062e-03	Up	encodes a peroxisomal polyamine oxidase, involved in the back-conversion polyamine degradation pathway. Among the five polyamine oxidases in the Arabidopsis genome, PAO4 is the major isoform in root peroxisomes.
+AT2G46600	AT2G46600	-1.2095	9.1108e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G00850	GIF3	1.0139	9.1108e-03	Up	Arabidopsis thaliana GRF1-interacting factor 3 (GIF3) mRNA
+AT4G19920	AT4G19920	1.7333	9.1315e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G21700	ATSGP2	1.3791	9.2703e-03	Up	Monomeric G protein. Expressed in root epidermal cells that are destined to become atrichoblasts. Also expressed during pollen development and in the pollen tube tip.
+AT2G46150	AT2G46150	1.3775	9.4185e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G22885	PROSCOOP13	1.1639	9.4185e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G57700	ZRK10	2.1324	9.5663e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G37710	LecRK-IV.1	1.5893	9.5663e-03	Up	Induced in response to Salicylic acid.
+AT5G05300	IDL6	3.4750	9.6430e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G15480	UGT73B5	1.7823	9.6430e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G61760	ADL1B	1.5734	9.6432e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G24503	ALDH1A	1.0621	9.6432e-03	Up	Arabidopsis thaliana aldehyde dehydrogenase AtALDH1a mRNA. a sinapaldehyde dehydrogenase  catalyzes both the oxidation of coniferylaldehyde and sinapaldehyde forming ferulic acid and sinapic acid, respectively
+AT1G16670	CRPK1	1.5183	9.7262e-03	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G45310	AT5G45310	-1.2334	9.8817e-03	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G16500	AT1G16500	1.2532	1.0038e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G01260	bHLH013	1.1466	1.0056e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G27760	AtHIGD2	1.6514	1.0197e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G55390	AT1G55390	1.4452	1.0247e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G47130	AtSDR3	1.3220	1.0253e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G44600	AT2G44600	1.0368	1.0389e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G63600	ATFLS5	-1.4051	1.0542e-02	Down	encodes a protein whose sequence is similar to flavonol synthase
+AT1G78830	CCLP	1.4158	1.0708e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G70750	MyoB2	1.0257	1.0785e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G35985	AT4G35985	1.2059	1.0836e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G23810	ATWRKY53	2.1266	1.0998e-02	Up	member of WRKY Transcription Factor; Group III
+AT3G22060	AT3G22060	1.3550	1.1142e-02	Up	contains Pfam profile: PF01657 Domain of unknown function that is usually associated with protein kinase domain Pfam:PF00069, however this protein does not have the protein kinase domain
+AT1G65486	STMP4	1.3660	1.1261e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G40080	PICALM10a	1.5600	1.1713e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G26730	AT1G26730	1.0984	1.1726e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G52790	AT3G52790	1.1468	1.1744e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G58420	AT1G58420	2.5108	1.1747e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G01640	PRA1.B5	1.5121	1.1747e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G15870	AT5G15870	1.3813	1.1784e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G27740	RSL4	1.7515	1.1834e-02	Up	Basic helix-loop-helix (bHLH) transcription factor  that is sufficient to promote postmitotic cell growth in root-hair cells. RSL4 is a direct transcriptional target of RHD6
+AT4G02410	AtLPK1	1.1634	1.1942e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G25760	AOC1	1.0115	1.2067e-02	Up	encodes allene oxide cyclase.  One of four genes in Arabidopsis that encode this enzyme, which catalyzes an essential step in jasmonic acid biosynthesis. Gene expression is induced during senescence, a process that involves jasmonic acid signalling pathway.
+AT2G04430	atnudt5	1.2742	1.2340e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G05790	AT5G05790	1.0732	1.2340e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G52342	AT1G52342	-1.2532	1.2379e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G44370	PHT4;6	1.1030	1.2384e-02	Up	Encodes an inorganic phosphate transporter (PHT4;6).
+AT3G26840	PES2	1.2876	1.2455e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G39970	AT5G39970	1.2577	1.2496e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G34480	AT4G34480	1.0507	1.2542e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G24310	DMP3	1.9267	1.2552e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G40590	AT5G40590	2.2644	1.2651e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G17180	ATGSTU25	1.6378	1.2651e-02	Up	Encodes glutathione transferase belonging to the tau class of GSTs. Naming convention according to Wagner et al. (2002).
+AT5G02090	AT5G02090	-1.0178	1.2651e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G24520	AT-HSFC1	-1.0203	1.2882e-02	Down	member of Heat Stress Transcription Factor (Hsf) family
+AT4G14220	RHF1A	1.0311	1.3017e-02	Up	encodes a RING-type E3 ubiquitin ligase implicated in gametogenesis. RHF1a can interact with the cell cycle inhibitor ICK4/KRP6 in vitro. It apppears to target ICK4KRP6 for degradation following meiosis in order to allow the mitoses associated with megagametogenesis and microgametogenesis to occur. RHF1a is expressed in the carpels throughout floral development. It is expressed in various tissues of the anthers during the early stages of anther development but not in stage 12 flowers and beyond.
+AT2G41110	ATCAL5	1.4617	1.3027e-02	Up	Encodes a touch-inducible calmodulin that has higher affinity to kinesin-like calmodulin binding motor protein than CAM4 or CAM6.
+AT2G29630	PY	-1.2679	1.3092e-02	Down	Encodes a protein involved in thiamine biosynthesis. The protein is an iron-sulfur cluster protein predicted to catalyze the conversion of 5-aminoimidazole ribonucleotide (AIR) to hydroxymethylpyrimidine phosphate (HMP-P). A severe reduction of THIC levels in plants decreases vitamin B1 (thiamin diphosphate (TPP)) levels and also leads to changes in the levels of numerous other metabolites since so many primary metabolic enzymes require a TPP co-factor. thiC mutants are chlorotic and arrest in their development at the cotyledon stage. A N-terminal targeting sequence directs the THIC protein to the chloroplast stroma. The THIC transcript is regulated by a TPP riboswitch in the 3' UTR. THIC transcripts are observed in seedlings 5 or more days after germination, and light promotes the expression of this gene.
+AT5G25170	AT5G25170	1.2341	1.3112e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G23770	AtLYK4	1.6737	1.3166e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G62900	AT5G62900	-1.1543	1.3321e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G63410	AT1G63410	-1.4248	1.3951e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G04490	CRK36	1.2503	1.4029e-02	Up	Encodes a cysteine-rich receptor-like protein kinase.
+AT5G02630	7TM3	1.2350	1.4221e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G46250	AT3G46250	1.7727	1.4249e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G14365	XBAT34	2.3043	1.4335e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G09970	LRR	1.3352	1.4555e-02	Up	RLK7 belongs to a leucine-rich repeat class of receptor-likekinase (LRR-RLKs). It is involved in the control of germination speed and the tolerance to oxidant stress.
+AT5G41170	RFL24	1.2374	1.4558e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G32200	AthCYSTM5	2.1442	1.4732e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G28040	UMAMIT33	-1.4614	1.4797e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G23570	SGT1A	1.3238	1.4873e-02	Up	Closely related to SGT1B, may function in SCF(TIR1) mediated protein degradation. AtSGT1a and AtSGT1b are functionally redundant in the resistance to pathogenes. AtSGT1b was more highly  expressed than AtSGT1. The N-terminal TPR domain of  AtSGT1a reduces the steady-state level of Arabidopsis SGT1  proteins whereas the same domain from AtSGT1b enhances  SGT1 accumulation. The TPR domain is dispensable for SGT1 resistance. AtSGT1a is induced upon pathogen infection and can function in R gene-mediated resistance.
+AT3G61300	MCTP8	1.1518	1.4911e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G09420	AtmtOM64	1.1258	1.5252e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G13080	ABCC3	1.1034	1.5252e-02	Up	encodes an ATP-dependent MRP-like ABC transporter able to transport glutathione-conjugates as well as chlorophyll catabolites.  The expression of this gene is upregulated by herbicide safeners such as benoxacor and fenclorim.
+AT3G09440	HSP70-3	1.6493	1.5332e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G08850	MIK2	1.5334	1.5408e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G65790	ATMYB68	1.2703	1.5408e-02	Up	Encodes a putative MYB transcription factor.
+AT4G30530	GGP1	1.8079	1.5434e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G35320	AT5G35320	1.0373	1.5436e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G70690	HWI1	1.0850	1.5610e-02	Up	Encodes a plasmodesmal protein that may be involved in the intercellular movement of molecules through the plasmodesmata. The protein has two DUF26 domains and a single transmembrane domain.
+AT1G35230	AGP5	2.7989	1.5702e-02	Up	Encodes arabinogalactan-protein (AGP5).
+AT5G49850	AT5G49850	1.7635	1.5781e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G23190	AT3G23190	1.2559	1.5781e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G41880	AGK1	1.1110	1.5781e-02	Up	Guanylate kinase. Involved in nucleotide metabolism.
+AT5G48450	SKS3	1.0468	1.5805e-02	Up	Encodes a protein with two DUF26 domains and a signal peptide for secretion. The protein is transported to the apoplast when it is expressed as a GFP fusion protein.
+AT1G61640	AT1G61640	1.1634	1.5825e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G38550	AT4G38550	1.6921	1.5962e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G01560	ATMPK11	2.5688	1.6108e-02	Up	member of MAP Kinase
+AT3G12580	ATHSP70	2.0794	1.6162e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G09520	ATEXO70H4	1.8635	1.6195e-02	Up	A member of EXO70 gene family, putative exocyst subunits, conserved in land plants. Arabidopsis thaliana contains 23 putative EXO70 genes, which can be classified into eight clusters on the phylogenetic tree.
+AT5G13200	GER5	1.0864	1.6195e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G56230	PRA1.G2	1.0101	1.6195e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G23510	AT5G23510	1.9655	1.6567e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G53260	ATPAL2	1.0524	1.6674e-02	Up	Encodes phenylalanine lyase. Arabidopsis has four PALs: AT2G37040 (PAL1), AT3G53260 (PAL2), AT5G04230 (PAL3) and AT3G10340 (PAL4).
+AT3G01830	AT3G01830	2.2358	1.6911e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G14200	AT3G14200	1.2310	1.6982e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G30060	AT4G30060	1.0461	1.6982e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G19130	AT2G19130	1.1671	1.7617e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G38100	AT5G38100	-2.1208	1.7642e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G54710	AT5G54710	1.6975	1.7655e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G11820	AT-SYR1	1.7169	1.7823e-02	Up	Encodes a syntaxin localized at the plasma membrane (SYR1, Syntaxin Related Protein 1, also known as SYP121, PENETRATION1/PEN1).  SYR1/PEN1 is a member of the SNARE superfamily proteins.  SNARE proteins are involved in cell signaling, vesicle traffic, growth and development.  SYR1/PEN1 functions in positioning anchoring of the KAT1 K+ channel protein at the plasma membrane. Transcription is upregulated by abscisic acid, suggesting a role in ABA signaling.  Also functions in non-host resistance against barley powdery mildew, Blumeria graminis sp. hordei.  SYR1/PEN1 is a nonessential component of the preinvasive resistance against Colletotrichum fungus. Required for mlo resistance.
+AT4G27970	SLAH2	1.4308	1.7878e-02	Up	Encodes a protein with ten predicted transmembrane helices. The SLAH2 protein has similarity to the SLAC1 protein involved in ion homeostasis in guard cells. But, it is not expressed in guard cells and cannot complement a slac1-2 mutant suggesting that it performs a different function. SLAH2:GFP localizes to the plasma membrane.
+AT1G01120	KCS1	1.1807	1.7961e-02	Up	Encodes a condensing enzyme KCS1 (3-ketoacyl-CoA synthase 1) which is involved in the critical fatty acid elongation process in wax biosynthesis.
+AT5G66985	HUP44	1.0774	1.8094e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G25250	AGC2	2.4559	1.8122e-02	Up	Arabidopsis protein kinase
+AT1G17420	ATLOX3	1.2293	1.8271e-02	Up	Lipoxygenase
+AT1G10050	AT1G10050	1.0256	1.8353e-02	Up	Encodes a putative glycosyl hydrolase family 10 protein (xylanase).
+AT5G02780	GSTL1	1.1593	1.8461e-02	Up	Encodes a member of the lambda family of glutathione transferases. It has thiol transferase activity and self S-glutathionylation activity in vitro.
+AT4G36945	AT4G36945	1.1243	1.8576e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G12720	ATMYB67	1.0587	1.8720e-02	Up	Member of the R2R3 factor gene family.
+AT5G45240	AT5G45240	2.8656	1.8801e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G07195	NOI11	2.0126	1.8828e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G09350	Fes1A	1.5657	1.8949e-02	Up	Encodes one of the Arabidopsis orthologs of the human Hsp70-binding protein 1 (HspBP-1) and yeast Fes1p: Fes1A (AT3G09350), Fes1B (AT3G53800), Fes1C (AT5G02150). Fes1A is cytosolic and associates with cytosolic Hsp70.  Mutants showed increased heat-sensitive phenotype suggestion the involvement of Fes1A in acquired thermotolerance.  Does not have nucleotide exchange factor activity in vitro.
+AT3G17110	AT3G17110	2.0145	1.9537e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G21840	ATMSRB8	1.6928	1.9700e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G14480	AT1G14480	1.4050	1.9867e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G32950	AT4G32950	-1.9953	2.0234e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G55720	BDR7	1.3935	2.0335e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G28350	LecRK-VII.2	1.4602	2.0392e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G77500	AT1G77500	1.2987	2.0474e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G67410	ADA1C	1.4874	2.0574e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G51700	ADOF1	1.1361	2.1026e-02	Up	Encodes dof zinc finger protein (adof1).
+AT1G58410	AT1G58410	1.0557	2.1469e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G04221	AT4G04221	1.1386	2.1636e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G39030	EDS5	1.7553	2.1653e-02	Up	Encodes an orphan multidrug and toxin extrusion transporter. Essential component of salicylic acid-dependent signaling for disease resistance. Member of the MATE-transporter family. Expression induced by salicylic acid. Mutants are salicylic acid-deficient.
+AT1G06800	DALL4	1.0409	2.1653e-02	Up	Encodes a lipase that hydrolyzes phosphatidylcholine, glycolipids as well as triacylglycerols.
+AT1G02310	MAN1	1.7753	2.1680e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G48570	ATFKBP65	1.9892	2.1772e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G05580	AUN1	1.1558	2.1935e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G13520	AT1G13520	2.5657	2.2444e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G45410	LecRK-I.3	-1.0943	2.2906e-02	Down	encodes a receptor-like kinase that has serine/threonine kinase activity whose expression is induced by high salt stress. This induction is inhibited by tobacco ethylene receptor.
+AT4G23170	CRK9	1.9951	2.2926e-02	Up	Induced in response to Salicylic acid.Similar to receptor-like kinase 4 and 5. NPR1, a known positive regulator of the SA signaling pathway is responsible for the SA-dependent induction and constitutive repression of EP1 gene's basal expression.
+AT4G30120	ATHMA3	-1.3965	2.2926e-02	Down	encodes a protein similar to Zn-ATPase, a P1B-type ATPases transport zinc
+AT2G16060	AHB1	1.3656	2.3015e-02	Up	Encodes a class 1 nonsymbiotic hemoglobin induced by low oxygen levels with very high oxygen affinity.  It is not likely to be a hemoglobin transporter because of its extremely high affinity for oxygen.
+AT1G34260	FAB1D	1.2198	2.3140e-02	Up	Encodes a protein that is predicted to act as a phosphatidylinositol-3P 5-kinase, but, because it lacks a FYVE domain, it is unlikely to be efficiently targeted to membranes containing the porposed phosphatidylinositol-3P substrate. Therefore, its molecular function remains unknown.
+AT5G48175	AT5G48175	1.5621	2.3192e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G48150	ATGPX4	1.7288	2.3329e-02	Up	Encodes glutathione peroxidase.
+AT3G48090	ATEDS1	1.0450	2.3363e-02	Up	Component of R gene-mediated disease resistance in Arabidopsis thaliana with homology to eukaryotic lipases.
+AT3G04530	ATPPCK2	-1.3704	2.3373e-02	Down	Encodes a second Arabidopsis phosphoenolpyruvate carboxylase kinase gene product with a different expression pattern from PPCK1. Expression of the gene is upregulated by exposure of the plant to light.
+AT5G06740	LecRK-S.5	1.8549	2.3502e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G13800	ATSERK5	1.4968	2.3502e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G64380	ERF61	1.3796	2.3691e-02	Up	encodes a member of the DREB subfamily A-6 of ERF/AP2 transcription factor family. The protein contains one AP2 domain. There are 8 members in this subfamily including RAP2.4.
+AT4G38552	AT4G38552	1.5939	2.3700e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G26120	AT4G26120	1.3974	2.3733e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G16385	CIF1	1.0485	2.4061e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G33817	AT1G33817	-2.1195	2.4182e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G16600	PGSIP8	1.5078	2.4544e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G33150	LKR	-1.3888	2.4544e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G14260	AT1G14260	1.8830	2.4759e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G65500	STMP6	1.3357	2.4865e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G36900	DEAR4	-1.3108	2.4865e-02	Down	encodes a member of the DREB subfamily A-5 of ERF/AP2 transcription factor family (RAP2.10). The protein contains one AP2 domain. There are 16 members in this subfamily including RAP2.9 and RAP2.1.
+AT4G32800	ERF043	1.1297	2.4865e-02	Up	encodes a member of the DREB subfamily A-4 of ERF/AP2 transcription factor family. The protein contains one AP2 domain. There are 17 members in this subfamily including TINY.
+AT3G56880	AT3G56880	1.3982	2.5274e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G35750	AT4G35750	-1.0413	2.5274e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G24150	ATFH4	1.8999	2.5833e-02	Up	Encodes a group I formin. Localized to cell junctions. Polymerizes actin. Binds profilin.
+AT2G29440	ATGSTU6	1.0704	2.5833e-02	Up	Encodes glutathione transferase belonging to the tau class of GSTs. Naming convention according to Wagner et al. (2002).
+AT1G66180	AT1G66180	-1.2806	2.5876e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G41050	AT5G41050	-1.0309	2.6232e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G41100	ATCAL4	1.7701	2.6276e-02	Up	encodes a calmodulin-like protein, with six potential calcium binding domains. Calcium binding shown by Ca(2+)-specific shift in electrophoretic mobility. Expression induced by touch and darkness. Expression may also be developmentally controlled. Expression in growing regions of roots, vascular tissue, root/shoot junctions, trichomes, branch points of the shoot, and regions of siliques and flowers.
+AT1G62262	SLAH4	-3.2624	2.6323e-02	Down	Predicted to encode a protein with similarity to the SLAC1 protein involved in ion homeostasis in guard cells.
+AT1G74310	ATHSP101	1.6612	2.8066e-02	Up	Encodes ClpB1, which belongs to the Casein lytic proteinase/heat shock protein 100 (Clp/Hsp100) family.  Involved in refolding of proteins which form aggregates under heat stress. Also known as AtHsp101.  AtHsp101 is a cytosolic heat shock protein required for acclimation to high temperature.
+AT4G13890	EDA36	1.3807	2.8383e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G11890	ARCK1	2.1266	2.8615e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G51805	SIF3	1.0320	2.9086e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G49360	ATBXL1	-1.2638	3.0619e-02	Down	Encodes a bifunctional {beta}-D-xylosidase/{alpha}-L-arabinofuranosidase required for pectic arabinan modification.  Located in the extracellular matrix. Gene is expressed specifically in tissues undergoing secondary wall thickening. This is a member of glycosyl hydrolase family 3 and has six other closely related members.
+AT5G40540	AT5G40540	1.2338	3.0696e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G29000	AT3G29000	2.8116	3.0869e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G33710	AT2G33710	1.5998	3.0876e-02	Up	encodes a member of the ERF (ethylene response factor) subfamily B-4 of ERF/AP2 transcription factor family. The protein contains one AP2 domain. There are 7 members in this subfamily.
+AT3G56400	ATWRKY70	-1.5629	3.1859e-02	Down	member of WRKY Transcription Factor; Group III. Function as activator of SA-dependent defense genes and a repressor of JA-regulated genes. WRKY70-controlled suppression of  JA-signaling is partly executed by NPR1.
+AT3G11591	AT3G11591	-1.6094	3.2140e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G38240	AT5G38240	1.3059	3.2344e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G43040	AT5G43040	1.2145	3.2344e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G02860	AT5G02860	-1.1470	3.2344e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G30370	DLAH	1.4108	3.2440e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G62780	AT3G62780	1.4475	3.2855e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G43675	AT1G43675	-1.0738	3.2877e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G09010	AT3G09010	1.7205	3.2886e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G56060	AthCYSTM3	2.9644	3.3056e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G47610	ATL79	-1.4456	3.3490e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G70170	At2-MMP	1.5893	3.3580e-02	Up	mutant has Late flowering; Early senescence; Matrix Metalloproteinase
+AT3G26020	PP2AB'ETA	1.0149	3.4239e-02	Up	Encodes protein phosphatase 2A (PP2A) B'eta subunit.  Targeted to nucleus and cytosol.
+AT1G61550	ERN1	1.8145	3.4807e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G28370	ATERF11	1.6395	3.4957e-02	Up	encodes a member of the ERF (ethylene response factor) subfamily B-1 of ERF/AP2 transcription factor family. The protein contains one AP2 domain. There are 15 members in this subfamily including ATERF-3, ATERF-4, ATERF-7, and leafy petiole.
+AT3G13433	AT3G13433	2.8225	3.5098e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G44490	BGLU26	1.5704	3.5098e-02	Up	Encodes a glycosyl hydrolase that localizes to peroxisomes and acts as a component of an inducible preinvasion resistance mechanism. Required for mlo resistance.
+AT3G01175	AT3G01175	-1.5739	3.5425e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G53480	ABCG37	-1.4179	3.5990e-02	Down	Negative regulator of auxin polar transport inhibitors. ABCG37 regulates auxin distribution and homeostasis  in roots by excluding IBA from the root apex, but does  not act directly in basipetal transport. ABCG37 and ABCG36 act redundantly at outermost root plasma  membranes and, transport IBA out of the cells.
+AT1G28280	MVQ1	1.0133	3.6287e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G62320	OSCA1.4	1.2854	3.6319e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G77160	AT1G77160	-1.0776	3.6476e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G45800	PLIM2a	-1.5984	3.6676e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G08870	LecRK-VI.1	1.5620	3.6676e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G34750	CIPP1	1.2691	3.6676e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G54095	AT1G54095	-2.5174	3.7164e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G32020	AT2G32020	1.2121	3.7164e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G50470	HR3	1.4170	3.7577e-02	Up	Homolog of RPW8
+AT1G70140	ATFH8	1.2823	3.7582e-02	Up	Encodes a group I formin. Binds to F-actin barbed ends. Has severing actin filaments activity. Binds profilin. Involved in the initiation and tip growth of root hairs through regulation of actin cytoskeleton.
+AT2G41230	ARL2	1.8359	3.8388e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G06980	AT1G06980	-1.5099	3.9091e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G79180	ATMYB63	1.2128	3.9756e-02	Up	Member of the R2R3 factor gene family.
+AT1G69600	ATHB29	-1.2929	4.1020e-02	Down	Encodes ZFHD1, a member of the zinc finger homeodomain transcriptional factor family.  Binds to the 62 bp promoter region of ERD1 (early responsive to dehydration stress 1).  Expression of ZFHD1 is induced by drought, high salinity and abscisic acid.
+AT3G25930	AT3G25930	-1.0125	4.1319e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G62280	SLAH1	-1.7241	4.1328e-02	Down	Encodes a protein with ten predicted transmembrane helices. The SLAH1 protein has similarity to the SLAC1 protein involved in ion homeostasis in guard cells. Although it is not expressed in guard cells, it can complement a slac1-2 mutant suggesting that it performs a similar function. SLAH1:GFP localizes to the plasma membrane.
+AT1G74080	ATMYB122	1.4139	4.1369e-02	Up	Encodes a putative transcription factor, member of the R2R3 factor gene family (MYB122).
+AT5G05190	EDR4	1.6793	4.2811e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G53200	AtMYB27	-1.7008	4.3238e-02	Down	Member of the R2R3 factor gene family.
+AT3G15518	AT3G15518	1.9948	4.3381e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G11970	AT5G11970	1.2601	4.3390e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G15640	AT1G15640	1.6000	4.3500e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT4G29050	LecRK-V.9	1.4021	4.3847e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G28720	HTB3	-1.1936	4.4185e-02	Down	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G29500	HSP17.6B	1.7832	4.4789e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G43420	ATL16	1.4603	4.5076e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G11185	AT1G11185	1.4075	4.5660e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G41231	AT2G41231	1.6157	4.5900e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G56580	ANQ1	1.3864	4.5900e-02	Up	Encodes a member of the MAP Kinase Kinase family of proteins. It can phosphorylate MPK12 in vitro and it can be dephosphorylated by MKP2 in vitro.
+AT5G12030	AT-HSP17.6A	2.1036	4.5981e-02	Up	Encodes a cytosolic small heat shock protein with chaperone activity that is induced by heat and osmotic stress and is also expressed late in seed development.
+AT5G57010	AT5G57010	2.0711	4.5981e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G59750	LecRK-V.8	1.6992	4.5981e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT5G18400	AtDRE2	1.1721	4.5981e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT2G44340	VQ18	1.1229	4.6601e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G03300	ATDUF1	-1.1087	4.6601e-02	Down	Member of the plant-specific DUF724 protein family. Arabidopsis has 10 DUF724 proteins. Loss of function mutant has a WT phenotype
+AT3G55090	ABCG16	1.0257	4.6601e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G69520	AT1G69520	1.0816	4.6634e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT1G01340	ACBK1	1.3329	4.7178e-02	Up	member of Cyclic nucleotide gated channel family
+AT1G66880	AT1G66880	1.3739	4.7257e-02	Up	Uncharacterized Arabidopsis protein (TAIR10)
+AT3G11840	PUB24	1.6157	4.7576e-02	Up	Encodes a U-box-domain-containing E3 ubiquitin ligase that acts as a negative regulator of PAMP-triggered immunity.
+AT3G23240	AtERF#092	1.3132	4.8787e-02	Up	encodes a member of the ERF (ethylene response factor) subfamily B-3 of ERF/AP2 transcription factor family (ERF1). The protein contains one AP2 domain. There are 18 members in this subfamily including ATERF-1, ATERF-2, AND ATERF-5. EREBP like protein that binds GCC box of ethylene regulated promoters such as basic chitinases. Constitutive expression of ERF1 phenocopies ethylene over production. Involved in ethylene signaling cascade,downstream of EIN2 and EIN3.
+AT1G51660	ATMEK4	1.0080	4.9350e-02	Up	Encodes a mitogen-activated map kinase kinase (there are nine in Arabidopsis) involved in innate immunity. This protein activates MPK3/MPK6 and early-defense genes redundantly with MKK5. In plants with both MKK5 and MKK6 levels reduced by RNAi plants, floral organs do not abscise suggestion a role for both proteins in mediating floral organ abscission.

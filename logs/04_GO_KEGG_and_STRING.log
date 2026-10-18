@@ -1,0 +1,55 @@
+﻿Rscript.exe : Warning message:
+At line:1 char:1
++ & "[R_HOME]\bin\Rscript.exe" scripts/04_GO_KEGG_and ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Warning message::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+package 'viridis' was built under R version 4.5.3 
+[TAHAP 9] Memulai analisis pengayaan fungsional GO (BP/MF/CC), KEGG, dan persiapan STRING...
+[INFO] Latar belakang (universe): 19979 gen | DEG Naik: 616 gen | DEG Turun: 101 gen
+[GO] Memuat hasil enrichGO UP yang sudah dihitung dari results/GO_enrichment_UP_BP_MF_CC.csv...
+[GO] Menjalankan enrichGO (BP) untuk Turun pada Perlakuan Kitin (101 gen)...
+[GO] Menjalankan enrichGO (MF) untuk Turun pada Perlakuan Kitin (101 gen)...
+[GO] Menjalankan enrichGO (CC) untuk Turun pada Perlakuan Kitin (101 gen)...
+
+[GO] Jumlah term GO signifikan (FDR < 0,05): Naik = 89 term, Turun = 0 term (Nominal p<0,05 pada Turun = 103 term)
+
+=== Ringkasan Jumlah Term GO Signifikan (FDR < 0.05) pada Gen Naik per Kategori ===
+
+BP MF 
+71 18 
+Warning message:
+In prettyNum(.Internal(format(x, trim, digits, nsmall, width, 3L,  :
+  'big.mark' and 'decimal.mark' are both '.', which could be confusing
+[GAMBAR] Tersimpan: Fig10_GO_Enrichment_Dotplot_Up_vs_Down (.png 300 dpi, .pdf, .svg)
+
+[KEGG] Menjalankan analisis pengayaan jalur metabolisme & sinyal KEGG...
+'select()' returned 1:many mapping between keys and columns
+Reading KEGG annotation online: "https://rest.kegg.jp/link/ath/pathway"...
+Reading KEGG annotation online: "https://rest.kegg.jp/list/pathway/ath"...
+
+[KEGG] Jalur KEGG signifikan (FDR < 0,05): Naik = 2 jalur, Turun = 0 jalur (Nominal p<0,05 pada Turun = 1 jalur)
+               ID                    Description                      Direction
+ath04626 ath04626     Plant-pathogen interaction Naik pada Perlakuan Kitin (Up)
+ath04016 ath04016 MAPK signaling pathway - plant Naik pada Perlakuan Kitin (Up)
+         GeneRatio       pvalue     p.adjust Count
+ath04626    33/123 1.189586e-20 8.327099e-19    33
+ath04016    10/123 9.173298e-04 3.210654e-02    10
+
+=== Jalur KEGG pada Gen Turun (Nominal p < 0.05) ===
+               ID         Description                         Direction
+ath04142 ath04142 Lysosome biogenesis Turun pada Perlakuan Kitin (Down)
+         GeneRatio    pvalue p.adjust Count
+ath04142      3/18 0.0240023 0.360562     3
+[GAMBAR] Tersimpan: Fig11_KEGG_Pathway_Enrichment_Plot (.png 300 dpi, .pdf, .svg)
+
+[STRING] Menyiapkan berkas input untuk analisis jejaring interaksi protein STRING...
+[STRING] Berkas siap unggah tersimpan di results/ (717 gen unik DEG):
+  1. results/STRING_DEG_unique_TAIR_IDs.txt (1 ID TAIR per baris untuk 'Multiple proteins')
+  2. results/STRING_DEG_unique_GeneSymbols.txt (1 Simbol Gen per baris)
+  3. results/STRING_DEG_with_log2FC.tsv (Pasangan ID TAIR dan nilai log2FC)
+  4. results/STRING_Cytoscape_node_attributes_DEG.tsv (Tabel atribut lengkap untuk Cytoscape)
+
+[SUKSES] Tahap 9 dan pencatatan sessionInfo() selesai dijalankan.
+

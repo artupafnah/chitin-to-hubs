@@ -1,0 +1,13 @@
+"Model_Set","Estimator_log2FC","Threshold_abs_log2FC","Fold_Change_Linear","padj_cutoff","DEG_Up_in_Chitin","DEG_Down_in_Chitin","DEG_Total"
+"7 Sampel Valid (Utama: 4 H2O vs 3 C6)","Shrunk (apeglm)",0.58,1.49,0.05,791,244,1035
+"7 Sampel Valid (Utama: 4 H2O vs 3 C6)","Unshrunk (MLE)",0.58,1.49,0.05,802,276,1078
+"8 Sampel Awal (Termasuk C6_1h_Rep1 Gagal)","Shrunk (apeglm)",0.58,1.49,0.05,205,3,208
+"6 Sampel Ketat (Tanpa C6_1h_Rep1 & Rep3)","Shrunk (apeglm)",0.58,1.49,0.05,385,116,501
+"7 Sampel Valid (Utama: 4 H2O vs 3 C6)","Shrunk (apeglm)",1,2,0.05,616,101,717
+"7 Sampel Valid (Utama: 4 H2O vs 3 C6)","Unshrunk (MLE)",1,2,0.05,698,142,840
+"8 Sampel Awal (Termasuk C6_1h_Rep1 Gagal)","Shrunk (apeglm)",1,2,0.05,205,2,207
+"6 Sampel Ketat (Tanpa C6_1h_Rep1 & Rep3)","Shrunk (apeglm)",1,2,0.05,333,52,385
+"7 Sampel Valid (Utama: 4 H2O vs 3 C6)","Shrunk (apeglm)",1.5,2.83,0.05,386,27,413
+"7 Sampel Valid (Utama: 4 H2O vs 3 C6)","Unshrunk (MLE)",1.5,2.83,0.05,479,61,540
+"8 Sampel Awal (Termasuk C6_1h_Rep1 Gagal)","Shrunk (apeglm)",1.5,2.83,0.05,192,2,194
+"6 Sampel Ketat (Tanpa C6_1h_Rep1 & Rep3)","Shrunk (apeglm)",1.5,2.83,0.05,229,19,248

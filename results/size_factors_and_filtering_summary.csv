@@ -1,0 +1,8 @@
+"sample_id","kondisi","raw_library_size_all_genes","raw_library_size_filtered_genes","DESeq2_size_factor","normalized_library_size"
+"H2O_1h_Rep1","Kontrol_H2O",17466529,17453229,1.66244,10498575.8
+"H2O_1h_Rep2","Kontrol_H2O",16360695,16348203,1.51944,10759369.6
+"H2O_1h_Rep3","Kontrol_H2O",16663272,16648618,1.70368,9772159.1
+"H2O_1h_Rep4","Kontrol_H2O",17434425,17420144,1.43132,12170719.3
+"C6_1h_Rep2","Perlakuan_Kitin_C6",9773934,9766079,0.83271,11728056.1
+"C6_1h_Rep3","Perlakuan_Kitin_C6",2375723,2373297,0.21237,11175475.9
+"C6_1h_Rep4","Perlakuan_Kitin_C6",11476373,11466788,0.99565,11516921
